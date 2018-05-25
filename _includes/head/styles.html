@@ -7,7 +7,7 @@
   <style>
     {% capture include_to_scssify %}{% include styles/inline.scss %}{% endcapture %}
     {{ include_to_scssify | scssify }}
-    {% if page.layout == "projects" or page.layout == "project" or page.layout == "welcome" %}
+    {% if page.layout == "projects" or page.layout == "project" or page.layout == "welcome" or page.layout == "consultants" %}
       {% capture include_to_scssify %}{% include styles/pro/projects.scss %}{% endcapture %}
       {{ include_to_scssify | scssify }}
     {% elsif page.layout == "resume" %}

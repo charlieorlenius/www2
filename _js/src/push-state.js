@@ -168,6 +168,7 @@ function getFlipType(el) {
   if (!el || !el.classList) return null;
   if (el.classList.contains('flip-title')) return 'title';
   if (el.classList.contains('flip-project')) return 'project';
+  if (el.classList.contains('flip-consultant')) return 'consultant';
   return el.getAttribute && el.getAttribute('data-flip');
 }
 

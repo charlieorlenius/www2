@@ -1,0 +1,17 @@
+---
+# Copyright (c) 2017 Florian Klampfer <https://qwtel.com/>
+layout: page
+---
+
+{{ content }}
+
+{% assign show_collection = page.show_collection | default:"consultants" %}
+{% assign ordered_consultants = site[show_collection] | sort:"date" | reverse %}
+
+{% for consultant in ordered_consultants %}
+
+  <div class="column column-1-2">
+    {% include pro/consultant-card.html consultant=consultant featured=false %}
+  </div>
+
+{% endfor %}

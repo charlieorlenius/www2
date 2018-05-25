@@ -1,25 +1,34 @@
 ---
 layout: page
-title: Thank You!
+title: Sveriges första kooperativa* konsultbolag inom IT, teknik och management
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+![Full-width image](assets/img/samverkan07.jpg){:.lead}
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+Konsultkooperativet är ett ärligt, demokratiskt och öppet kooperativ för frilansande teknik- och managementkonsulter. Vi välkomnar alla konsulter som på riktigt vill ha möjlighet att påverka, som är trötta på stora konsultmäklare som skär emellan, och på andra medarbetsägda konsultbolag, där alla inte får vara med på samma villkor. Konsultkooperativet har inte några storägare, eller orättvisa villkor - vi är helt enkelt ett schysst konsultbolag :) kolla gärna våra stadgar!
 
-## First Steps
-Please start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+Låter det intressant? Kontakta oss för att ansöka om medlemskap.
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
+(*) Enligt definitionen av Internationella Kooperativa Alliansen (ICA)
 
-[documentation]: docs/7.5.1/index.md
-[install]: docs/7.5.1/install.md
-[upgrade]: docs/7.5.1/upgrade.md
-[config]: docs/7.5.1/config.md
+# Medlemsägd konsultmäklare
+
+Konsultkooperativet kan ses som en konsultmäklare utan vinstintresse. Föreningens medlemmar är alla underkonsulter i egna bolag. Föreningens huvuduppgift är att tillse att alla medlemmar/underkonsulter har konsultuppdrag. Kooperativet verkar för att teckna avtal direkt med kunder, utan extern mellanhand. Målsättningen är att föreningens underkonsulter (medlemmar) inte ska behöva anlita externa konsultmäklare.
+
+# Vad händer med föreningens vinst?
+
+Kooperativet agerar konsultmäklare och mäklar konsultuppdrag åt sina medlemsföretag. För denna service drar föreningen en serviceavgift (arvode) beräknad på fakturerad kostnad. Det överskott som föreningen genererar betalas tillbaka som återbäring till medlemmarna utifrån den omsättning medlemmarna har haft i föreningen. För att ha rätt till återbäring ska man ha varit medlem i minst ett år, samt ha valt att betala in en insats till föreningen. Efter återbäring är målsättningen att den faktiska serviceavgiften (arvodet) ska vara under sex procent.
+
+Enligt föreningens stadgar skall föreningen inte göra någon vinst, allt överskott ges som återbäring till medlemmarna.
+
+# Varför kooperativ och inte aktiebolag?
+
+Konsultkooperativet är en ekonomisk förening, organisationsformen valdes då den gör det enklast att säkerställa rättvisa, demokrati och transparens. I en ekonomisk förening har alla medlemmar en röst var. En medlem kan alltså aldrig tillskansa sig mer makt över föreningen än någon annan.
+
+I de allra flesta avseenden (ex. skatter och moms) är en ekonomisk förening jämställd med ett aktiebolag.
+
+# Medlemsförmåner till våra konsulter
+
+Som medlem i Konsultkooperativet får konsulter tillgång till nätverk och gemenskap med övriga medlemmar. Föreningen ansvarar för att organisera team-building events, och konferenser efter medlemmarnas önskemål. Föreningen ansvarar även för det praktiska runt konsultuppdrag - såsom kontraktsskrivning, fakturering etc.
+
+Konsultkooperativet har även gemensamma försäkringar och administrativa system. Försäkringen innehåller ansvarsförsäkring för rådgivande konsulter som är viktig för konsulter, och krav från många kunder. Läs mer om medlemsförmåner här.
