@@ -8,10 +8,18 @@ layout: page
 {% assign show_collection = page.show_collection | default:"consultants" %}
 {% assign ordered_consultants = site[show_collection] | sort:"date" | reverse %}
 
-{% for consultant in ordered_consultants %}
 
-  <div class="column column-1-2">
-    {% include pro/consultant-card.html consultant=consultant featured=false %}
-  </div>
+{% for consultant in ordered_consultants %}
+  {% if page.slug %}
+    {% if consultant.tags contains page.slug %}
+      <div class="column column-1-2">
+        {% include pro/consultant-card.html consultant=consultant featured=false %}
+      </div>
+    {% endif %}
+  {% else %}
+    <div class="column column-1-2">
+      {% include pro/consultant-card.html consultant=consultant featured=false %}
+    </div>
+  {% endif %}
 
 {% endfor %}

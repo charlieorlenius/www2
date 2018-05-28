@@ -3,7 +3,8 @@ layout:       consultant
 date:         07 Aug 2017
 title:        Superkonsult
 resume:       johanisaksson
-name:      Johan Isaksson
+name:         Johan Isaksson
+tags:         "Software Architect"
 image:        /assets/img/johanisaksson.jpg
 screenshot:
   src:        /assets/img/johanisaksson.jpg

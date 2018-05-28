@@ -3,9 +3,9 @@ layout: consultants
 title: Våra konsulter
 show_collection: consultants
 description: >
-  This is a demo of the `projects` layout, which is included in the PRO version of Hydejack.
-  Here it is used to showcase different customizations of Hydejack.
-  Open `projects.md` to edit this text.
+  Här ser du Konsultkooperativets alla konsultprofiler, läs gärna mer om våra erfarna, professionella och kompetenta konsulter. Klicka på de olika kompetenslänkarna för att filtrera listan
 menu: true
 order: 3
 ---
+
+<a href="/consultants/">Alla</a>&nbsp;{% for tag in site.featured_tags %} / <a href="/tag/{{ tag.slug }}">{{ tag.slug }}</a>{% endfor %}

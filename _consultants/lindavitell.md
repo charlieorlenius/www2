@@ -4,6 +4,7 @@ date:         07 Aug 2017
 name:         Linda Vitell
 title:        Superkonsult
 resume:       lindavitell
+tags:         PMP Interimschef
 image:        /assets/img/lindavitell.jpg
 screenshot:
   src:        /assets/img/lindavitell.jpg

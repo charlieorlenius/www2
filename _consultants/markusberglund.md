@@ -5,6 +5,7 @@ name:         Markus Berglund
 title:        PMP Project Manager, Software Architect
 resume:       markusberglund
 image:        /assets/img/markusberglund.jpg
+tags:         PMP perl PHP Projektledare "Project Manager" "Software Architect"
 screenshot:
   src:        /assets/img/markusberglund.jpg
   srcset:
