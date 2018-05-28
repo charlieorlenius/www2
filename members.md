@@ -23,7 +23,7 @@ Detta är en av hörnstenarna i Konsultkooperativet - vi skapar ett konsultnätv
 
 Konsultkooperativet ger genom detta våra kunder och partners tillgång till en större och samlad kompetens, och för frilansande egenföretagande konsulter möjlighet till delad kompetens, inte bara inom sin egen domän, utan även om entreprenörsskap och hur man driver företag.
 
-#Sociala event och gemenskap
+# Sociala event och gemenskap
 
 En av drivkrafterna bakom Konsultkooperativet är att skapa ett sammanhang för frilansande konsulter, som sällan existerar om man jobbar som t.ex. underkonsult till ett annat konsultföretag eller frilansar genom konsultmäklare. Vi vill skapa en kultur och en gemenskap som är konstant även om uppdragen växlar. Föreningen har den naturliga mötesplatsen på kontorshotellet Entreprenörsgatan men vi planerar även andra sammankomster, såsom konsultluncher, resor och events. För att det ska vara rättvist och valfritt är de flesta sociala eventen organiserade av föreningen, men bekostas av medlemmen själv.
 
