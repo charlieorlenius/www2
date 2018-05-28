@@ -27,7 +27,7 @@ group :jekyll_plugins do
   gem "jekyll-relative-links"
   # gem "jekyll-remote-theme"
   gem "jekyll-seo-tag"
-  gem "jekyll-sitemap"
+  # gem "jekyll-sitemap"
   # gem "jekyll-titles-from-headings"
   gem "jekyll-polyglot"
 end
