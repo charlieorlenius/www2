@@ -204,6 +204,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   # - jekyll-titles-from-headings
+  - jekyll-polyglot
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -279,8 +280,8 @@ sass:
 # feed:
 #   path:                atom.xml
 
-languages: ["en", "sv"]
+languages: ["sv", "en"]
 default_lang: "sv"
-#exclude_from_localization: ["javascript", "images", "css"]
-exclude_from_localization: []
-parallel_localization: true
+exclude_from_localization: ["javascript", "images", "css"]
+#exclude_from_localization: []
+parallel_localization: false

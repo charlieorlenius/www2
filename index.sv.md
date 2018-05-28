@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Sveriges första kooperativa* konsultbolag inom IT, teknik och management
+lang: sv
+permalink: /
 ---
 
 ![Full-width image](assets/img/samverkan07.jpg){:.lead}

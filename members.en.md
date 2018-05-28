@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Medlemsförmåner
+title: Member benefits
 menu: true
 order: 1
+lang: en
+permalink: /members/
 ---
 # Konsultföretag och konsultnätverk för underkonsulter - alla delägare på lika vilkor
 ...
