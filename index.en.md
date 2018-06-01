@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Sweden's first cooperative* for self-employed consultants
+menutitle: Hem
+heading: Konsultkooperativet<br><small>fria teknik- och managementkonsulter</small>
 lang: en
 permalink: /
 ---

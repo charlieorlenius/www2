@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Sveriges första kooperativa* konsultbolag inom IT, teknik och management
+menutitle: Home
+heading: Konsultkooperativet<br><small>fria teknik- och managementkonsulter</small>
 lang: sv
 permalink: /
 ---

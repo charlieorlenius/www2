@@ -1,13 +1,14 @@
 ---
 layout: page
 title:  About
+menutitle: About
+heading: Free-lancing IT-consultants
 author: konsultcoop
 menu: true
 order: 5
 lang: en
 permalink: /about/
 ---
-# Free lancing IT-consultants
 Both Markus and Johan have long experience as IT-consultants, as programmers, system engineers, architects and project managers. Both have worked both as employees in ordinary consultanting companies, through partnership consulting companies as well as freelancing consultants, through brokers or directly to clients.
 
 Denna breda erfarenhet av att jobba på olika konstellationer har givit god insikt i för- och nackdelar med de olika uppläggen. Som frilansande konsult har man stor frihet att styra över sina uppdrag, men man har inte samma naturliga nätverk. I ett medarbetarägt bolag kan man ofta vara frilansande, men samtidigt del av någonting större. Nackdelen brukar dock vara att alla inte äger på samma vilkor. Grundare och tidiga ägare besitter ofta stor makt i bolagen.

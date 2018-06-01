@@ -1,6 +1,8 @@
 ---
 layout: consultants
 title: Våra konsulter
+menutitle: Våra konsulter
+heading: Våra konsulter
 show_collection: consultants
 description: >
   Här ser du Konsultkooperativets alla konsultprofiler, läs gärna mer om våra erfarna, professionella och kompetenta konsulter. Klicka på de olika kompetenslänkarna för att filtrera listan

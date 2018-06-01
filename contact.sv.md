@@ -1,6 +1,8 @@
 ---
 layout: about
 title:  Kontakta oss
+menutitle: Kontakta oss
+heading: Kontakta oss
 author: konsultcoop
 menu: true
 order: 10

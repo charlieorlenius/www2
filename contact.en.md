@@ -1,6 +1,8 @@
 ---
 layout: about
 title:  Contact
+menutitle: Contact
+heading: Contact us
 author: konsultcoop
 menu: true
 order: 10

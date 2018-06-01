@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Member benefits
+title: Consulting company and network for under consultants - everyone on same terms
+menutitle: Member benefits 
+heading: Member benefits
+description: Read about the benfits of being a member of Konsltkooperativet
 menu: true
 order: 1
 lang: en
 permalink: /members/
 ---
-# Konsultföretag och konsultnätverk för underkonsulter - alla delägare på lika vilkor
-...
-
 # Varumärke och ramavtal
 
 Att vara sin egen men inte ensam, är något som gör oss starkare. Tillsammans kan vi upphandla varor och tjänster till våra medlemmar, och vi kan göra affärer direkt mot våra kunder utan att vara tvingade att gå genom externa konsultmäklare. Tillsammans skapar vi vårt varumärke - vilket är en av våra viktigaste tillgångar. Att vara en konsult i Konsultkooperativet står för kvalitet, professionalism och glädje.

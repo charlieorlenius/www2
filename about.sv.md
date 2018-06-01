@@ -1,14 +1,14 @@
 ---
 layout: page
 title:  Om
+menutitle: Om
+heading: Frilansande IT-konsulter
 author: konsultcoop
 menu: true
 order: 5
 lang: sv
 permalink: /about/
 ---
-
-# Frilansande IT-konsulter
 
 Både Markus och Johan har lång erfarehet av att vara IT-konsulter, som programmerare, systemutvecklare, arkitekter och projektledare. Båda har arbetat både som anställd i vanliga konsultbolag, genom medarbetarägda konsultbolag, samt som frilansande konsulter, antingen genom klassiska konsultmäklare, eller direkt mot egna kunder.
 

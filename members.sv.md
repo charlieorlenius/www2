@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Medlemsförmåner
+title: Konsultföretag och konsultnätverk för underkonsulter - alla delägare på lika vilkor
+menutitle: Medlemsförmåner
+heading: Medlemsförmåner
+description: Läs om fördelar och förmåner vid medlemskap i Konsultkooperativet
 menu: true
 order: 1
 lang: sv
 permalink: /members/
 ---
-# Konsultföretag och konsultnätverk för underkonsulter - alla delägare på lika vilkor
-...
-
 # Varumärke och ramavtal
 
 Att vara sin egen men inte ensam, är något som gör oss starkare. Tillsammans kan vi upphandla varor och tjänster till våra medlemmar, och vi kan göra affärer direkt mot våra kunder utan att vara tvingade att gå genom externa konsultmäklare. Tillsammans skapar vi vårt varumärke - vilket är en av våra viktigaste tillgångar. Att vara en konsult i Konsultkooperativet står för kvalitet, professionalism och glädje.
