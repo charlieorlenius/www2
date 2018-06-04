@@ -7,7 +7,7 @@ description: Read about the benfits of being a member of Konsltkooperativet
 menu: true
 order: 1
 lang: en
-permalink: /members/
+permalink: /members
 ---
 # Varumärke och ramavtal
 

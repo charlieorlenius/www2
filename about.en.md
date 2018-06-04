@@ -7,7 +7,7 @@ author: konsultcoop
 menu: true
 order: 5
 lang: en
-permalink: /about/
+permalink: /about
 ---
 Both Markus and Johan have long experience as IT-consultants, as programmers, system engineers, architects and project managers. Both have worked both as employees in ordinary consultanting companies, through partnership consulting companies as well as freelancing consultants, through brokers or directly to clients.
 

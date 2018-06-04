@@ -7,7 +7,7 @@ author: konsultcoop
 menu: true
 order: 5
 lang: sv
-permalink: /about/
+permalink: /about
 ---
 
 Både Markus och Johan har lång erfarehet av att vara IT-konsulter, som programmerare, systemutvecklare, arkitekter och projektledare. Båda har arbetat både som anställd i vanliga konsultbolag, genom medarbetarägda konsultbolag, samt som frilansande konsulter, antingen genom klassiska konsultmäklare, eller direkt mot egna kunder.

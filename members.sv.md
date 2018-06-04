@@ -7,7 +7,7 @@ description: Läs om fördelar och förmåner vid medlemskap i Konsultkooperativ
 menu: true
 order: 1
 lang: sv
-permalink: /members/
+permalink: /members
 ---
 # Varumärke och ramavtal
 

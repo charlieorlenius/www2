@@ -9,7 +9,7 @@ description: >
 menu: true
 order: 3
 lang: en
-permalink: /consultants/
+permalink: /consultants
 ---
 
-<a href="/consultants/">All</a>&nbsp;{% for tag in site.featured_tags %} / <a href="/tag/{{ tag.slug }}">{{ tag.slug }}</a>{% endfor %}
+<a href="/consultants">All</a>&nbsp;{% for tag in site.featured_tags %} / <a href="/tag/{{ tag.slug }}">{{ tag.slug }}</a>{% endfor %}
