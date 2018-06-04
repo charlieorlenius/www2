@@ -2,7 +2,7 @@
 layout:       consultant
 date:         07 Aug 2017
 name:         Linda Vitell
-title:        Superkonsult
+title:        Projektledare
 resume:       lindavitell
 tags:         PMP Interimschef
 image:        /assets/img/lindavitell.jpg
