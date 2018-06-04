@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Konsultuppdrag: Driven Visual Basic konsult sökes till uppdrag i Göteborg"
+title:  "Driven Visual Basic konsult sökes till uppdrag i Göteborg"
 date:   2018-01-29 18:00:00 +0100
 categories: konsultuppdrag visualbasic
 author: mb

@@ -1,12 +1,11 @@
 ---
 layout: list
 title: Konsultuppdrag
+menutitle: Lediga uppdrag
 slug: konsultuppdrag
 description: >
   Konsultuppdrag
-accent_color: '#268bd2'
-accent_image:
-  background: '#202020'
-  overlay:    false
-permalink: /konsultuppdrag/
+permalink: /konsultuppdrag
+menu: true
+order: 4
 ---
