@@ -25,3 +25,10 @@ https://www.konsultkooperativet.org/* https://konsult.coop/:splat 301!
 /en/consultants/   /en/consultants    301
 
 /blog/konsultuppdrag  /konsultuppdrag 301
+
+/en/cv/johanisaksson    /en/cv/johanisaksson/   301
+/cv/johanisaksson       /cv/johanisaksson/      301
+/en/cv/lindavitell      /en/cv/lindavitell/     301
+/cv/lindavitell         /cv/lindavitell/        301
+/cv/markusberglund      /cv/markusberglund/     301
+/en/cv/markusberglund   /en/cv/markusberglund/  301

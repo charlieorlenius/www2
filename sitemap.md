@@ -35,4 +35,19 @@ permalink: /sitemap.xml
       </url>
     {% endif %}
   {% endfor %}
+
+  {% for page in site.consultants %}
+    <url>
+      <loc>{{site.url}}{{ page.url }}</loc>
+      {% for version in site.languages %}
+        {% if version == site.default_lang %}
+          <xhtml:link rel="alternate" hreflang="{{ version }}" href="{{site.url}}{{ page.url }}" />
+        {% else %}
+          <xhtml:link rel="alternate" hreflang="{{ version }}" href="{{site.url}}/{{ version }}{{ page.url }}" />
+        {% endif %}
+      {% endfor %}
+      <changefreq>weekly</changefreq>
+    </url>
+  {% endfor %}
+
 </urlset>
