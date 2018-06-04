@@ -24,4 +24,4 @@ Föreningen har i sig inget vinstintresse - så den är inte startad för att f�
 
 Föreningens stadgar föreskriver bland annat att föreningen inte ska göra någon vinst - det innebär att det mellanskär (serviceavgift/arvode) som föreningen tar ut, alltid kommer att minimeras. Det är även reglerat hur stor budgetomslutning föreningen får ha - detta kommer göra att serviceavgiften (arvodet) i snitt ej ska överstiga sex procent.
 
-Låter det intressant? Du är i så fall välkommen att ansöka om medlemskap här!
+Låter det intressant? Du är i så fall välkommen att ansöka om medlemskap [här]((mailto:konsl@konsult.coop)!

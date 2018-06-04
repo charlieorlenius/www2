@@ -22,5 +22,5 @@ The organisation does not have a goal to make profit - so it was not founded to 
 
 The organisations by-law says that it should not make any profit - that means that commision fees will always be minimized. The by-laws also stipulates how large the spending in the budget may be - this will make sure the commission fee will on average not exceed 6%.
 
-Sounds interesting? In that case, you are welcome to apply for membership here!
+Sounds interesting? In that case, you are welcome to apply for membership [here](mailto:konsl@konsult.coop)!
 
