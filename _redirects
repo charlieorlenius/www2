@@ -1,0 +1,25 @@
+#Additional domain names
+https://konsultkooperativet.se/* https://konsult.coop/:splat 301!
+https://www.konsultkooperativet.se/* https://konsult.coop/:splat 301!
+
+https://konsultkooperativet.com/* https://konsult.coop/:splat 301!
+https://www.konsultkooperativet.com/* https://konsult.coop/:splat 301!
+
+https://konsultkooperativet.net/* https://konsult.coop/:splat 301!
+https://www.konsultkooperativet.net/* https://konsult.coop/:splat 301!
+
+https://konsultkooperativet.org/* https://konsult.coop/:splat 301!
+https://www.konsultkooperativet.org/* https://konsult.coop/:splat 301!
+
+# Redirect with a 301
+/index          /               301
+/index/         /               301
+/social/        /social         301
+/about/         /about          301
+/consultants/   /consultants    301
+
+/en/index          /en/               301
+/en/index/         /en/               301
+/en/social/        /en/social         301
+/en/about/         /en/about          301
+/en/consultants/   /en/consultants    301
