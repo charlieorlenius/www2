@@ -9,9 +9,9 @@ permalink: /
 
 ![Full-width image](assets/img/samverkan07.jpg){:.lead}
 
-Konsultkooperativet är ett ärligt, demokratiskt och öppet kooperativ för frilansande teknik- och managementkonsulter. Vi välkomnar alla konsulter som på riktigt vill ha möjlighet att påverka, som är trötta på stora konsultmäklare som skär emellan, och på andra medarbetsägda konsultbolag, där alla inte får vara med på samma villkor. Konsultkooperativet har inte några storägare, eller orättvisa villkor - vi är helt enkelt ett schysst konsultbolag :) kolla gärna våra stadgar!
+Konsultkooperativet är ett ärligt, demokratiskt och öppet kooperativ för frilansande teknik- och managementkonsulter. Vi välkomnar alla konsulter som på riktigt vill ha möjlighet att påverka, som är trötta på stora konsultmäklare som skär emellan, och på andra medarbetsägda konsultbolag, där alla inte får vara med på samma villkor. Konsultkooperativet har inte några storägare, eller orättvisa villkor - vi är helt enkelt ett schysst konsultbolag :) kolla gärna våra [stadgar](https://konsult.coop/stadgar.pdf)!
 
-Låter det intressant? Kontakta oss för att ansöka om medlemskap.
+Låter det intressant? [Kontakta oss](mailto:konsult@konsult.coop) för att ansöka om medlemskap.
 
 (*) Enligt definitionen av Internationella Kooperativa Alliansen (ICA)
 
@@ -21,7 +21,7 @@ Konsultkooperativet kan ses som en konsultmäklare utan vinstintresse. Förening
 
 # Vad händer med föreningens vinst?
 
-Kooperativet agerar konsultmäklare och mäklar konsultuppdrag åt sina medlemsföretag. För denna service drar föreningen en serviceavgift (arvode) beräknad på fakturerad kostnad. Det överskott som föreningen genererar betalas tillbaka som återbäring till medlemmarna utifrån den omsättning medlemmarna har haft i föreningen. För att ha rätt till återbäring ska man ha varit medlem i minst ett år, samt ha valt att betala in en insats till föreningen. Efter återbäring är målsättningen att den faktiska serviceavgiften (arvodet) ska vara under sex procent.
+Kooperativet agerar konsultmäklare och mäklar [konsultuppdrag](https://konsult.coop/blog/konsultuppdrag) åt sina medlemsföretag. För denna service drar föreningen en serviceavgift (arvode) beräknad på fakturerad kostnad. Det överskott som föreningen genererar betalas tillbaka som återbäring till medlemmarna utifrån den omsättning medlemmarna har haft i föreningen. För att ha rätt till återbäring ska man ha varit medlem i minst ett år, samt ha valt att betala in en insats till föreningen. Efter återbäring är målsättningen att den faktiska serviceavgiften (arvodet) ska vara under sex procent.
 
 Enligt föreningens stadgar skall föreningen inte göra någon vinst, allt överskott ges som återbäring till medlemmarna.
 
@@ -35,4 +35,4 @@ I de allra flesta avseenden (ex. skatter och moms) är en ekonomisk förening j�
 
 Som medlem i Konsultkooperativet får konsulter tillgång till nätverk och gemenskap med övriga medlemmar. Föreningen ansvarar för att organisera team-building events, och konferenser efter medlemmarnas önskemål. Föreningen ansvarar även för det praktiska runt konsultuppdrag - såsom kontraktsskrivning, fakturering etc.
 
-Konsultkooperativet har även gemensamma försäkringar och administrativa system. Försäkringen innehåller ansvarsförsäkring för rådgivande konsulter som är viktig för konsulter, och krav från många kunder. Läs mer om medlemsförmåner här.
+Konsultkooperativet har även gemensamma försäkringar och administrativa system. Försäkringen innehåller ansvarsförsäkring för rådgivande konsulter som är viktig för konsulter, och krav från många kunder. [Läs mer om medlemsförmåner här](/members).
