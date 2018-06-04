@@ -286,4 +286,4 @@ exclude_from_localization: ["javascript", "images", "css"]
 #exclude_from_localization: []
 parallel_localization: false
 
-exclude: [README.md]
+exclude: ["README.md", "node_modules"]
