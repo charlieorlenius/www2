@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sweden's first cooperative* for self-employed consultants
+title: Konsultkooperativet - member owned consultant company in Gothenburg
 menutitle: Hem
 heading: Konsultkooperativet<br><small>fria teknik- och managementkonsulter</small>
 lang: en
@@ -8,6 +8,8 @@ permalink: /
 ---
 
 ![Full-width image](assets/img/samverkan07.jpg){:.lead}
+
+# Sweden's first cooperative* for self-employed consultants
 
 Konsultkooperativet is an honest, democratic and open cooperative for freelancing technology and management consultants. We welcome all consultants who want real power to change, who are tired of brokers who charges too much, and of partnership companies, where all are not treated equal. Konsultkooperativet does not have any majority owners, or unfair terms - you are welcome to check our [by-laws](/stadgar.pdf)!
 

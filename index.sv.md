@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sveriges första kooperativa* konsultbolag inom IT, teknik och management
+title: Konsultkooperativet - medlemsägt konsultbolag i Göteborg
 menutitle: Home
 heading: Konsultkooperativet<br><small>fria teknik- och managementkonsulter</small>
 lang: sv
@@ -8,6 +8,8 @@ permalink: /
 ---
 
 ![Full-width image](assets/img/samverkan07.jpg){:.lead}
+
+# Sveriges första kooperativa* konsultbolag inom IT, teknik och management
 
 Konsultkooperativet är ett ärligt, demokratiskt och öppet kooperativ för frilansande teknik- och managementkonsulter. Vi välkomnar alla konsulter som på riktigt vill ha möjlighet att påverka, som är trötta på stora konsultmäklare som skär emellan, och på andra medarbetsägda konsultbolag, där alla inte får vara med på samma villkor. Konsultkooperativet har inte några storägare, eller orättvisa villkor - vi är helt enkelt ett schysst konsultbolag :) kolla gärna våra [stadgar](/stadgar.pdf)!
 
