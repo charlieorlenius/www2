@@ -32,3 +32,16 @@ https://www.konsultkooperativet.org/* https://konsult.coop/:splat 301!
 /cv/lindavitell         /cv/lindavitell/        301
 /cv/markusberglund      /cv/markusberglund/     301
 /en/cv/markusberglund   /en/cv/markusberglund/  301
+
+
+/blog/konsultbolag/nyhet/Nytt-konsultbolag-i-G%C3%B6teborg/                                     /konsultbolag/nyhet/2018/01/15/Nytt-konsultbolag-i-Goteborg/    301
+/blog/konsultbolag/nyhet/press/Computer-Sweden-skriver-om-oss/                                  /konsultbolag/nyhet/press/2018/01/17/Computer-Sweden-skriver-om-oss/    301
+/blog/konsultbolag/konsultn%C3%A4tverk/Lokal-f%C3%B6r-n%C3%A4tverkande-konsulter/               /konsultbolag/konsultn%C3%A4tverk/2018/01/18/Lokal-for-natverkande-konsulter/   301
+/blog/konsultbolag/konsultn%C3%A4tverk/nyheter/Konsultkooperativet-omn%C3%A4mnda-av-cinode/     /konsultbolag/konsultn%C3%A4tverk/nyheter/2018/01/23/Konsultkooperativet-omn%C3%A4mnda-av-cinode/   301
+/blog/konsultbolag/konsultn%C3%A4tverk/event/Informationsm%C3%B6te-om-Konsultkooperativet/      /konsultbolag/konsultn%C3%A4tverk/event/2018/01/23/Informationsm%C3%B6te-om-Konsultkooperativet/    301
+/blog/konsultuppdrag/dotnet/Konsultuppdrag-Senior-.NET-konsult-s%C3%B6kes/                      /konsultuppdrag/dotnet/2018/01/27/Konsultuppdrag-Senior-.NET-konsult-s%C3%B6kes/    301
+/blog/konsultuppdrag/visualbasic/Konsultuppdrag-Visual-Basic-konsult-s%C3%B6kes/                /konsultuppdrag/visualbasic/2018/01/29/Konsultuppdrag-Visual-Basic-konsult-s%C3%B6kes/  301
+/blog/administration/ekonomi/Pappersl%C3%B6st-kontor/                                           /administration/ekonomi/2018/03/25/Pappersl%C3%B6st-kontor/ 301
+/blog/konsultuppdrag/rabbitmq/Konsultuppdrag-specialist-p%C3%A5-RabbitMQ-s%C3%B6kes/            /konsultuppdrag/rabbitmq/2018/04/18/Konsultuppdrag-specialist-p%C3%A5-RabbitMQ-s%C3%B6kes/  301
+/blog/administration/ekonomi/F%C3%B6reningsst%C3%A4ma-och-kick-off/                             /administration/ekonomi/2018/04/19/F%C3%B6reningsstamma-och-kick-off/   301
+    
