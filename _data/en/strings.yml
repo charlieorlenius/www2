@@ -71,7 +71,7 @@ date_formats:
   list_entry:          '%d %b'
   project:             '%Y'
   projects_group_by:   '%Y'
-  resume:              '%b %Y'
+  resume:              '%Y'
 
 
 # PRO Version
@@ -113,9 +113,9 @@ resume:
   volunteer:           Volunteer
   volunteer_title:     <!--position--> at <!--organization-->
   education:           Education
-  education_title:     <!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->
+  education_title:     <!--study_type--> in <!--area--> from <!--institution-->
   courses:             Courses
-  awards:              Awards
+  awards:              Awards and Certifications
   awards_title:        <!--title--> from <!--awarder-->
   publications:        Publications
   publications_title:  <!--name--> by <!--publisher-->

@@ -1,0 +1,143 @@
+# Strings
+# =======================================================================================
+# This file contains all soft-coded strings of the theme.
+# You can edit them here if you want to change the wording of certain phrases,
+# e.g. maybe you prefer "Fetching…" to "Loading…", etc.
+#
+# You can also use this to "translate" the theme into different langauges,
+# but note that this may not work in all situations,
+# especially for languages that differ significantly from English.
+
+# Free version
+# ---------------------------------------------------------------------------------------
+home:                  Hem
+pages:                 Pages
+posts:                 Posts
+about:                 Om
+related_posts:         Relaterade inlägg
+other_projects:        Other Projects
+comments:              Kommentarer
+jump_to:               Jump to
+navigation:            Navigation
+social:                Socialt
+links:                 Länkar
+pagination:            Pagination
+newer:                 Nyare
+older:                 Äldre
+back:                  Tillbaka
+permalink:             Permalink
+permalink_icon:        icon-link
+templates:             Templates (for web app)
+
+loading:               Loading…
+redirecting:           Redirecting…
+
+continue_reading:      >
+  Continue reading <!--post_title-->
+
+cookies_banner:
+  text:                >
+    This site uses cookies.
+  okay:                Okay
+
+not_found:
+  title:               '404: Page Not Found'
+  message:             |
+    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+    <!--home_link--> to try finding it again.
+  home_link:           Head back home
+
+error:
+  title:               Error
+  message:             |
+    Sorry, an error occurred while loading <!--link-->.
+
+# Separators
+# ---------------------------------------------------------------------------------------
+colon:                 ':'
+separator:             '|'
+category_start:        'in '
+category_spearator:    ' / '
+tag_start:             'on '
+tag_separator:         ', '
+
+
+# Date formats
+# ---------------------------------------------------------------------------------------
+date_formats:
+  post:                '%d %b %Y'
+  related_post:        '%d %b %Y'
+  list_group_by:       '%Y'
+  list_entry:          '%d %b'
+  project:             '%Y'
+  projects_group_by:   '%Y'
+  resume:              '%Y'
+
+
+# PRO Version
+# ---------------------------------------------------------------------------------------
+# If you don't own the PRO version of Hydejack, modifying these will have no effect.
+
+tinyletter:
+  title:               Newsletter
+  label:               Email
+  placeholder:         mail@example.com
+  button:              Subscribe
+  message:             |
+    Subscribe to my newsletter.
+    0
+    <!--form-->
+
+    Open `_data/strings.yml` to edit this text.
+    {:.faded}
+
+welcome:
+  selected_projects:   Selected Projects
+  selected_posts:      Selected Posts
+  recent_projects:     Recent Projects
+  recent_posts:        Recent Posts
+  more_projects:       See <!--projects_title--> for more
+  more_posts:          See <!--posts_title--> for more
+
+resume:
+  location:            Location
+  location_separator:  ', '
+  from_to_separator:   '–'
+  present:             pågående
+  email:               Epost
+  phone:               Telefon
+  website:             Webbsida
+  work:                Arbetslivserfarenhet
+  work_title:          <!--position--> vid <!--company-->
+  highlights:          Highlights
+  volunteer:           Volunteer
+  volunteer_title:     <!--position--> at <!--organization-->
+  education:           Utbildning
+  education_title:     <!--study_type--> i <!--area--> vid <!--institution-->
+  courses:             Kurser
+  awards:              Utmärkelser och certifieringar
+  awards_title:        <!--title--> från <!--awarder-->
+  publications:        Publikationer
+  publications_title:  <!--name--> av <!--publisher-->
+  references:          Referenser
+  languages:           Språk
+  fluency:             Nivå
+  skills:              Färdigheter
+  level:               Nivå
+  interests:           Intressen
+  keywords:            Nyckelord
+  icons:
+    fallback:          icon-link
+    location:          icon-location
+    email:             icon-mail2
+    phone:             icon-phone
+    website:           icon-home3
+    work:              icon-briefcase
+    volunteer:         icon-earth
+    education:         icon-library
+    awards:            icon-trophy
+    publications:      icon-book
+    references:        icon-quotes-right
+    languages:         icon-bubbles
+    skills:            icon-wrench
+    interests:         icon-heart

@@ -13,7 +13,7 @@
   <h3 class="project-card-title">
     <a href="/cv/{{ consultant.resume }}" class="flip-title">{{ consultant.name }}</a>
   </h3>
-  {% if consultant.title %}
-    <legend class="project-card-text fine faded">{{ consultant.title | markdownify | replace:'<p>','' | replace:'</p>','' }}</legend>
+  {% if consultant.subname %}
+    <legend class="project-card-text fine faded">{{ consultant.subname | markdownify | replace:'<p>','' | replace:'</p>','' }}</legend>
   {% endif %}
 </article>

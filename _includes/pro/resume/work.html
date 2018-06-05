@@ -36,6 +36,12 @@
       </h3>
     </header>
 
+    <ul class="tags" style="margin: 0 -0.375rem 0rem;">
+      {% for keyword in work.keywords %}
+        <li class="tag" style="font-size:14px; ">{{ keyword }}</li>
+      {% endfor %}
+    </ul>
+
     {% include message.html text=work.summary alt="" %}
 
     <h4 class="sr-only">{{ strings.resume.highlights | default:"Highlights" }}</h4>

@@ -2,7 +2,8 @@
 layout:       consultant
 date:         07 Aug 2017
 name:         Linda Vitell
-title:        Projektledare
+subname:      Projektledare
+title:        Linda Vitell - Projektledare - Konsulkooperativet
 resume:       lindavitell
 tags:         PMP Interimschef
 image:        /assets/img/lindavitell.jpg

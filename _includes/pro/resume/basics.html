@@ -1,5 +1,6 @@
 <dl class="column column-3-5">
   {% assign location = basics.location %}
+  {% assign strings.date_formats.resume = '%Y' %}
   {% if
     location.address.size > 0 or
     location.postalCode.size > 0 or
