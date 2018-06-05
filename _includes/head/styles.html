@@ -10,7 +10,7 @@
     {% if page.layout == "projects" or page.layout == "project" or page.layout == "welcome" or page.layout == "consultants" %}
       {% capture include_to_scssify %}{% include styles/pro/projects.scss %}{% endcapture %}
       {{ include_to_scssify | scssify }}
-    {% elsif page.layout == "resume" %}
+    {% elsif page.layout == "resume" or page.layout == "consultants" %}
       {% capture include_to_scssify %}{% include styles/pro/resume.scss %}{% endcapture %}
       {{ include_to_scssify | scssify }}
     {% endif %}

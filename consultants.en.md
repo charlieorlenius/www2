@@ -12,4 +12,7 @@ lang: en
 permalink: /consultants
 ---
 
-<a href="/consultants">All</a>&nbsp;{% for tag in site.featured_tags %} / <a href="/tag/{{ tag.slug }}">{{ tag.slug }}</a>{% endfor %}
+<ul class="tags">
+<li class="tag"><a href="/consultants">All</a></li>
+{% for tag in site.featured_tags %} <li class="tag"><a href="/tag/{{ tag.slug }}">{{ tag.slug }}</a></li>{% endfor %}
+</ul>

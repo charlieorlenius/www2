@@ -8,6 +8,7 @@ layout: page
 {% assign show_collection = page.show_collection | default:"consultants" %}
 {% assign ordered_consultants = site[show_collection] | sort:"date" | reverse %}
 
+<div class="columns">
 
 {% for consultant in ordered_consultants %}
   {% if page.slug %}
@@ -23,3 +24,5 @@ layout: page
   {% endif %}
 
 {% endfor %}
+
+</div>

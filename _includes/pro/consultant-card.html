@@ -1,5 +1,7 @@
 {% assign consultant = include.consultant %}
 
+{% assign resume = site.data.[consultant.resume] %}
+
 {% assign sizes = "(min-width: 90em) 22.5rem, (min-width: 54em) 19.5rem, (min-width: 42em) 17.5rem, 100vw" %}
 
 <article class="project-card">
@@ -11,9 +13,9 @@
     </div>
   </a>
   <h3 class="project-card-title">
-    <a href="/cv/{{ consultant.resume }}" class="flip-title">{{ consultant.name }}</a>
+    <a href="/cv/{{ consultant.resume }}" class="flip-title">{{ resume.basics.name }}</a>
   </h3>
-  {% if consultant.subname %}
-    <legend class="project-card-text fine faded">{{ consultant.subname | markdownify | replace:'<p>','' | replace:'</p>','' }}</legend>
+  {% if resume.basics.label %}
+    <legend class="project-card-text fine faded">{{ resume.basics.label | markdownify | replace:'<p>','' | replace:'</p>','' }}</legend>
   {% endif %}
 </article>
