@@ -3,7 +3,7 @@ layout: page
 title: Consulting company and network for under consultants - everyone on same terms
 menutitle: Member benefits 
 heading: Member benefits
-description: Read about the benfits of being a member of Konsltkooperativet
+description: Läs om fördelar att som underkonsult äga sin konsultmäklare - konsultnätverk, ansvarsförsäkringar, gemenskap och kompetensutbyte
 menu: true
 order: 1
 lang: en

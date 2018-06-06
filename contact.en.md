@@ -1,9 +1,10 @@
 ---
-layout: about
+layout: page
 title:  Contact
 menutitle: Contact
 heading: Contact us
 author: konsultcoop
+description: Organisation for freelancing consultants. Contact us to apply for membership.
 menu: true
 order: 10
 lang: en

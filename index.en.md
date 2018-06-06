@@ -3,6 +3,7 @@ layout: page
 title: Konsultkooperativet - member owned consultant company in Gothenburg
 menutitle: Hem
 heading: Konsultkooperativet<br><small>fria teknik- och managementkonsulter</small>
+description: Cooperative consultant company and broker for freelancing cosultants. Owned and controlled equally by its members.
 lang: en
 permalink: /
 ---

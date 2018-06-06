@@ -3,7 +3,7 @@ layout: page
 title: Konsultföretag och konsultnätverk för underkonsulter - alla delägare på lika vilkor
 menutitle: Medlemsförmåner
 heading: Medlemsförmåner
-description: Läs om fördelar och förmåner vid medlemskap i Konsultkooperativet
+description: Läs om fördelar att som underkonsult äga sin konsultmäklare - konsultnätverk, ansvarsförsäkringar, gemenskap och kompetensutbyte
 menu: true
 order: 1
 lang: sv

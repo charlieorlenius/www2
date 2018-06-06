@@ -3,6 +3,7 @@ layout: page
 title:  About
 menutitle: About
 heading: Free-lancing IT-consultants
+description: The goal with the founding was to create an organisation that is fair, democratic, and that fulfills the needs of freelancing it consultants.
 author: konsultcoop
 menu: true
 order: 5

@@ -1,11 +1,8 @@
 ---
 layout:       consultant
-date:         07 Aug 2017
 title:        Johan Isaksson - Systemarkitekt - Konsultkooperativet
 resume:       johanisaksson
-name:         Johan Isaksson
-subname:      Systemarkitekt
-tags:         "Software Architect"
+tags:         [Software Architect]
 image:        /assets/img/johanisaksson.jpg
 screenshot:
   src:        /assets/img/johanisaksson.jpg

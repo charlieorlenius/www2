@@ -3,6 +3,7 @@ layout: page
 title:  Om
 menutitle: Om
 heading: Frilansande IT-konsulter
+description: Målet med grundandet var att skapa ett bolag som är rättvist, demokratiskt och som tillgodoser de behov frilansande teknikkonsulter har.
 author: konsultcoop
 menu: true
 order: 5

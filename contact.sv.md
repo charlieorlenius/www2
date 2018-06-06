@@ -1,9 +1,10 @@
 ---
-layout: about
+layout: page
 title:  Kontakta oss
 menutitle: Kontakta oss
 heading: Kontakta oss
 author: konsultcoop
+description: Förening för konsulter inom teknik och management, som frilansar i enmansbolag. Kontakta oss för att ansöka om medlemsskap.
 menu: true
 order: 10
 lang: sv

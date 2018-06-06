@@ -6,4 +6,7 @@ description: >
   PMI-PMP är en av världens mest kända och välrenommerade certifieringen för projektledare. Här nedan kan du se vilka av våra konsulter som är certifierade Project Management Professionals av [Project Management Institute](https://www.pmi.org)
 ---
 
-<a href="/consultants/">Alla</a>{% for tag in site.featured_tags %}{% if tag.slug != page.slug %} / <a href="/tag/{{ tag.slug }}">{{ tag.slug }}</a>{% endif %}{% endfor %}
+<ul class="tags">
+<li class="tag"><a href="/consultants">All</a></li>
+{% for tag in site.featured_tags %}{% if tag.slug != page.slug %} <li class="tag"><a href="/tag/{{ tag.slug }}">{{ tag.slug }}</a></li>{% endif %}{% endfor %}
+</ul>
