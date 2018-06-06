@@ -7,7 +7,7 @@ show_collection: consultants
 description: >
   Här ser du Konsultkooperativets alla konsultprofiler, läs gärna mer om våra erfarna, professionella och kompetenta konsulter. Klicka på de olika kompetenslänkarna för att filtrera listan
 menu: true
-order: 3
+order: 2
 lang: sv
 permalink: /consultants
 ---

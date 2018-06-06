@@ -7,7 +7,7 @@ show_collection: consultants
 description: >
   Here are all consultants at Konsultkooperativets, please read more about our experienced, professional and competent consultants. Click on the different compence links to filter the list.listan
 menu: true
-order: 3
+order: 2
 lang: en
 permalink: /consultants
 ---
