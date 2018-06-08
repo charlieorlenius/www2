@@ -20,7 +20,9 @@ Syftet med föreningen är kanske det viktigaste av allt - och nu är det ännu 
 Vi har även ändrat antal nivåer från 4 till 2, samt höjt minsta insats till 1/4 inkomstbasbelopp
 
 >Insatsen i föreningen är uppdelad i två nivåer. Nivå 1 är obligatorisk, övriga nivåer är valfria 
+>
 >Nivå 1: en fjärdedels basbelopp (2017: 15,375 kronor) 
+>
 >Nivå 2: ett basbelopp (2017: 61,500 kronor.) 
 >
 >Varje medlem ska delta i föreningen med en (1) insats (obligatorisk insats). Insatsen ska betalas till föreningens konto senast 30 dagar efter inträde i föreningen. Ny medlem kan endast delta med insats motsvarande Nivå 1. 

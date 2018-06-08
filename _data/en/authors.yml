@@ -66,10 +66,6 @@ mb:
   name:              Markus Berglund
   email:             mb@konsult.coop
   about:             |
-    Grundare och ordförande i Konsultkooperativet
+    Markus Berglund is Konsultkooperativets co-founder and chairman. He is a consultant within Project Management and Software Architecture.
   picture:           /assets/img/markusberglund_avatar.jpg
-  github:            mberglundmx
-  accent_color:      '#268bd2'
-  accent_image:
-    background:      '#202020'
-    overlay:         false
+  linkedin:          markusberglundmx
