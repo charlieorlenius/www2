@@ -4,7 +4,6 @@ title:  "Kan man ha ett helt papperslöst kontor?"
 date:   2018-03-25 10:00:00 +0100
 categories: administration ekonomi
 author: mb
-excerpt: "konsultkooperativet arbetar med att minimera administrativt arbete, läs mer om hur här"
 header:
   teaser: "/assets/img/2018-03-25.png"
 ---

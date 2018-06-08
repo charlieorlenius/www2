@@ -6,7 +6,7 @@ categories: konsultbolag nyhet press
 author: mb
 
 header:
-  teaser: "assets/images/2d36f7dc9671afca999080d587c471833a695077a9c99c38650fa78710ff2697.png"
+  teaser: "/assets/img/2d36f7dc9671afca999080d587c471833a695077a9c99c38650fa78710ff2697.png"
 ---
 Computer Sweden har valt att uppmärksamma vårt initiativ! [Läs artikeln här](https://computersweden.idg.se/2.2683/1.696092/it-konsulter-kooperativ).
 
