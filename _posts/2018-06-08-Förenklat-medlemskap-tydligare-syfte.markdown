@@ -2,7 +2,7 @@
 layout: post
 title:  "Nya stadgar godkända"
 date:   2018-06-08 08:00:00 +0100
-categories: medlem
+categories: administration ekonomi
 author: mb
 header:
   teaser: "/assets/img/stadgar.png"
