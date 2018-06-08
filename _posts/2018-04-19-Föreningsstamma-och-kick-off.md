@@ -7,6 +7,8 @@ author: mb
 header:
   teaser: "/assets/img/enotecamaglia2.jpg"
 ---
+![Full-width image](/assets/img/enotecamaglia2.jpg){:.lead}
+
 Det är svårt att få allt perfekt på första försöket - vi har identifierat ett par brister i våra stadgar, som vi nu arbetat med att förbättra. En del juridiskt prat, för att slippa ha några extra avtal vid sidan om, samt förtydligat vårt syfte något. Men kanske främst gjort det ännu mer rättvist för nya medlemmar.
 
 Vår avsikt och affärsidé bygger på att ingen ska tjäna pengar på någon annan, och alla ska vara med och rättvist dela på kostnaderna. Vi behöver dock en metod för att finansiera tillväxt, och det är det som vi nu förtydligat och förbättrat i våra nya stadgar. Så fort de är godkända av Bolagsverket kommer vi publicera dem på vår hemsida.
