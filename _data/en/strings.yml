@@ -37,8 +37,8 @@ continue_reading:      >
 
 cookies_banner:
   text:                >
-    This site uses cookies.
-  okay:                Okay
+    By continuing to browse or by clicking “Accept All Cookies,” you agree to the storing of first- and third-party cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+  okay:                Accept All Cookies
 
 not_found:
   title:               '404: Page Not Found'
