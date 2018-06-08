@@ -18,18 +18,6 @@ Sounds interesting? [Contact us](mailto:konsult@konsult.coop) to apply for membe
 
 (*) According to the definition by the International Cooperative Alliance (ICA)
 
-<ul class="entries">
-  {% for post in paginator.posts limit:5%}
-  <li>
-    <a href="{{ post.url }}">
-    <h3>{{ post.title }}</h3>
-    <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
-    <div>{{ post.excerpt }}</div>
-    </a>
-  </li>
-  {% endfor %}
-</ul>
-
 # Cooperative consultant broker
 Konsultkooperativet can be seen as a consultant broker not acting for profit. The cooperative's main target is to make sure all members have assignments, by acting as a broker. The cooperative aims at signing contracts directly with end customers, when possible without involvement of external brokers.
 
