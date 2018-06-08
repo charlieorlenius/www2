@@ -8,8 +8,8 @@ author: mb
 header:
   teaser: "assets/images/2d36f7dc9671afca999080d587c471833a695077a9c99c38650fa78710ff2697.png"
 ---
-![Full-width image](/assets/img/2d36f7dc9671afca999080d587c471833a695077a9c99c38650fa78710ff2697.png){:.lead}
-
 Computer Sweden har valt att uppmärksamma vårt initiativ! [Läs artikeln här](https://computersweden.idg.se/2.2683/1.696092/it-konsulter-kooperativ).
+
+![Full-width image](/assets/img/2d36f7dc9671afca999080d587c471833a695077a9c99c38650fa78710ff2697.png){:.lead}
 
 [Även IT branschen](https://itbranschen.idg.se/2018/01/16/kooperativt-it-konsultbolag-satsar-i-goteborg/) har publicerat vår pressrelease.
