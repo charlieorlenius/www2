@@ -8,9 +8,7 @@ comments: false
 header:
   teaser: "/assets/img/rabbit-mq.jpg"
 ---
-Vi söker en konsult med goda kunskaper i RabbitMQ för IPC - gärna med erfarenhet inom prestandaoptimering.
-
-Är du intresserad av att bli presenterad för vår kund, och samtidigt ansöka om medlemskap i Konsultkooperativet, [hör av dig omgående](https://konsult.coop/contact)!
+Vi söker en konsult med goda kunskaper i RabbitMQ för IPC - gärna med erfarenhet inom prestandaoptimering. Är du intresserad av att bli presenterad för vår kund, och samtidigt ansöka om medlemskap i Konsultkooperativet, [hör av dig omgående](https://konsult.coop/contact)!
 
 Referens: 2835004000000366001
 

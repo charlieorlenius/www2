@@ -4,7 +4,6 @@ title:  "Extrastämma för att finslipa stadgarna, och kickoff!"
 date:   2018-04-19 10:00:00 +0100
 categories: administration ekonomi
 author: mb
-excerpt: "Fantastisk känsla att starta upp vårt första riktiga verksamhetsår med dessa fantastiska medlemmar."
 header:
   teaser: "/assets/img/enotecamaglia2.jpg"
 ---
