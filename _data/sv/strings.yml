@@ -37,8 +37,8 @@ continue_reading:      >
 
 cookies_banner:
   text:                >
-    This site uses cookies.
-  okay:                Okay
+    Denna webbplats använder cookies.
+  okay:                Ok
 
 not_found:
   title:               '404: Page Not Found'
