@@ -18,6 +18,16 @@ Låter det intressant? [Kontakta oss](mailto:konsult@konsult.coop) för att ans�
 
 (*) Enligt definitionen av Internationella Kooperativa Alliansen (ICA)
 
+<ul class="entries">
+  {% for post in site.posts limit:5 %}
+  <li>
+    <a href="{{ post.url }}">
+    <h4>{{ post.title }}</h4>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+
 # Medlemsägd konsultmäklare
 
 Konsultkooperativet kan ses som en konsultmäklare utan vinstintresse. Föreningens medlemmar är alla underkonsulter i egna bolag. Föreningens huvuduppgift är att tillse att alla medlemmar/underkonsulter har konsultuppdrag. Kooperativet verkar för att teckna avtal direkt med kunder, utan extern mellanhand. Målsättningen är att föreningens underkonsulter (medlemmar) inte ska behöva anlita externa konsultmäklare.
