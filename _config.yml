@@ -65,7 +65,7 @@ copyright:             © 2018. Konsultkooperativet fria teknik- och managementk
 permalink:             pretty
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              10
+paginate:              50 # Changing this creates multiple links in the menu :(
 paginate_path:         /blog/page-:num/
 
 
