@@ -18,11 +18,12 @@ Låter det intressant? [Kontakta oss](mailto:konsult@konsult.coop) för att ans�
 
 (*) Enligt definitionen av Internationella Kooperativa Alliansen (ICA)
 
+## Senaste blogg-inläggen
 <ul class="entries">
   {% for post in site.posts limit:5 %}
   <li>
     <a href="{{ post.url }}">
-    <h4>{{ post.title }}</h4>
+    <h4 style="margin-top: 0;">{{ post.title }}</h4>
     </a>
   </li>
   {% endfor %}

@@ -18,11 +18,12 @@ Sounds interesting? [Contact us](mailto:konsult@konsult.coop) to apply for membe
 
 (*) According to the definition by the International Cooperative Alliance (ICA)
 
+## Latest blog posts
 <ul class="entries">
   {% for post in site.posts limit:5 %}
   <li>
     <a href="{{ post.url }}">
-    <h4>{{ post.title }}</h4>
+    <h4 style="margin-top: 0;">{{ post.title }}</h4>
     </a>
   </li>
   {% endfor %}
