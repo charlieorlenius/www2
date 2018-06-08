@@ -19,17 +19,11 @@ Låter det intressant? [Kontakta oss](mailto:konsult@konsult.coop) för att ans�
 (*) Enligt definitionen av Internationella Kooperativa Alliansen (ICA)
 
 ## Senaste blogg-inläggen
+<ul class="related-posts">
 {% for post in site.posts limit:5 %}
-  {% assign currentdate = post.date | date:list_group_by %}
-  {% if currentdate != date %}
-    {% unless forloop.first %}</ul>{% endunless %}
-    <h2 id="{{ list_group_by | slugify }}-{{ currentdate | slugify }}" class="hr">{{ currentdate }}</h2>
-    <ul class="related-posts">
-    {% assign date = currentdate %}
-  {% endif %}
   {% include post-list-item.html post=post format=list_entry %}
-  {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
+</ul>
 
 # Medlemsägd konsultmäklare
 
