@@ -32,7 +32,7 @@ layout: base
 </article>
 
 <ul class="entries">
-  {% for post in paginator.posts limit:5 %}
+  {% for post in site.posts limit:5 %}
   <li>
     <a href="{{ post.url }}">
     <h3>{{ post.title }}</h3>
