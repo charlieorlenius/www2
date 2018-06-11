@@ -3,7 +3,6 @@ layout: post
 title:  "Välkommen Linda Vitell!"
 date:   2018-06-11 06:00:00 +0100
 categories: medlem
-author: mb
 image:     /assets/img/samverkan07.jpg
 header:
   teaser: "/assets/img/samverkan07.jpg"
