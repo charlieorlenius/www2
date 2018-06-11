@@ -7,7 +7,7 @@ image:     /assets/img/samverkan07.jpg
 header:
   teaser: "/assets/img/samverkan07.jpg"
 ---
-Konsultkooperativet växer med ännu en stjärna. Vi är otroligt glada över att få välkomna Linda Vitell till oss!
+Konsultkooperativet växer med ännu en stjärna. Vi är otroligt glada över att få välkomna [Linda Vitell](/cv/lindavitell) till oss!
 
 > *Jag har en passion för mina uppdrag som brukar smitta av sig*
 
