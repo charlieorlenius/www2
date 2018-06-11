@@ -12,7 +12,7 @@ Konsultkooperativet växer med ännu en stjärna. Vi är otroligt glada över at
 
 > *Jag har en passion för mina uppdrag som brukar smitta av sig*
 
-![Full-width image](assets/img/samverkan07.jpg){:.lead}
+![Full-width image](/assets/img/samverkan07.jpg){:.lead}
 
 ## Linda, beskriv kort din bakgrund
 
