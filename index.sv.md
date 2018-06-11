@@ -5,6 +5,7 @@ menutitle: Home
 heading: Konsultkooperativet<br><small>fria teknik- och managementkonsulter</small>
 description: Kooperativt konsultbolag och konsultmäklare för frilansande konsulter i enmansbolag. Medlemsägt utan vinstintresse.
 lang: sv
+image:     /assets/img/samverkan07.jpg
 permalink: /
 ---
 
