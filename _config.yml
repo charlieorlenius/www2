@@ -50,9 +50,6 @@ author:
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
-# Used by og:image as default
-image:              /assets/img/samverkan07.jpg
-
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2018. Konsultkooperativet fria teknik- och managementkonsulter.
 
