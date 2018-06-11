@@ -12,6 +12,8 @@ Konsultkooperativet växer med ännu en stjärna. Vi är otroligt glada över at
 
 > *Jag har en passion för mina uppdrag som brukar smitta av sig*
 
+![Full-width image](assets/img/samverkan07.jpg){:.lead}
+
 ## Linda, beskriv kort din bakgrund
 
 Jag har arbetat som chef och projektledare i 15 år i stora och medelstora bolag med ansvar för globala team med internationella leveranser som inneburit omfattande förändringsinitiativ.
