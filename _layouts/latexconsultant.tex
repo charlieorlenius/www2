@@ -40,9 +40,9 @@
 % Color for highlights
 % Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
 %                 awesome-nephritis, awesome-concrete, awesome-darknight
-\colorlet{awesome}{awesome-red}
+% \colorlet{awesome}{awesome-red}
 % Uncomment if you would like to specify your own color
-% \definecolor{awesome}{HTML}{CA63A8}
+\definecolor{awesome}{HTML}{FF8000}
 
 % Colors for text
 % Uncomment if you would like to specify your own color
@@ -67,17 +67,46 @@
 %-------------------------------------------------------------------------------
 % Available options: circle|rectangle,edge/noedge,left/right
 % \photo[rectangle,edge,right]{profile}
+{% assign phototag = "{." | append: basics.picture | append: "}" %}
+\photo[circle,edge,right]{{phototag}}
 {% assign firstname = basics.name  | truncatewords: 1, "" %}
-\name{ {{ firstname }} }{ {{ basics.name  | remove_first: firstname }} }
+{% assign lastname = basics.name  | remove_first: firstname | truncatewords: 1, ""  %}
+
+{% assign nametag = "{" | append: firstname | append: "}{" | append: lastname | append: "}" %}
+\name{{nametag}}
 %\position{Software Engineer{\enskip\cdotp\enskip}Security Expert}
 \position{ {{ basics.label}} }
-\address{246-1002, Gwangmyeongmayrouge Apt. 86, Cheongna lime-ro, Seo-gu, Incheon-si, 404-180, Rep. of KOREA}
+{{ location.city }}
 
-\mobile{(+82) 10-9030-1843}
-\email{posquit0.bj@gmail.com}
-\homepage{www.posquit0.com}
-\github{posquit0}
-\linkedin{posquit0}
+{% assign addresstag = "{" | append: basics.location.address | append: ", " | append: basics.location.city | append: "}" %}
+{% assign phonetag = "{" | append: basics.phone | append: "}" %}
+{% assign emailtag = "{" | append: basics.email | append: "}" %}
+% \address{{addresstag}}
+
+\mobile{{phonetag}}
+
+\email{{emailtag}}
+{% if basics.website.size > 0 %}
+{% assign wwwtag = "{" | append: basics.website | append: "}" %}
+\homepage{{wwwtag}}
+{% endif %}
+
+% \github{posquit0}
+
+{% for profile in basics.profiles %}
+
+{% if profile.network == "LinkedIn" %}
+  {% assign linkedintag = "{" | append: profile.url | append: "}" %}
+  {% assign tags = profile.url | split: "/" %}
+  {% for tag in tags %}
+    {% assign linkedintag = "{" | append: tag | append: "}" %}
+  {% endfor %}
+
+\linkedin{{linkedintag}}
+{% endif %}
+
+{% endfor %}
+
 % \gitlab{gitlab-id}
 % \stackoverflow{SO-id}{SO-name}
 % \twitter{@twit}
@@ -93,7 +122,7 @@
 
 % Print the header with above personal informations
 % Give optional argument to change alignment(C: center, L: left, R: right)
-\makecvheader[R]
+\makecvheader[L]
 
 % Print the footer with 3 arguments(<left>, <center>, <right>)
 % Leave any of these blank if they are not needed
@@ -110,6 +139,7 @@
 %\input{resume/summary.tex}
 {% include pro/resume/summary.tex %}
 %\input{resume/experience.tex}
+{% include pro/resume/skills.tex %}
 {% include pro/resume/work.tex %}
 %\input{resume/honors.tex}
 %\input{resume/presentation.tex}

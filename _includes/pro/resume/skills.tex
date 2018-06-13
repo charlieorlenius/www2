@@ -1,0 +1,21 @@
+{% if resume.skills.size > 0 %}
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Skills}
+
+{% for skl in resume.skills %}
+
+%-------------------------------------------------------------------------------
+%	SUBSECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsubsection{ {{ skl.name}} }{% if skl.keywords.size > 0 %}
+\headersocialstyle{ 
+\newline{% for key in skl.keywords %}
+{ {{ key }} } {% if forloop.last == false %}\acvHeaderSocialSep{% endif %}{% endfor %}
+}
+{% endif %}
+
+{% endfor %}
+
+{% endif %}
