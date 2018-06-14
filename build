@@ -2,8 +2,6 @@ wget -qO- \
   "https://github.com/yihui/tinytex/raw/master/tools/install-unx.sh" | sh
 
 JEKYLL_ENV=production jekyll build
-ls _site
-ls -l /opt/build/repo/_site
 
 ~/bin/tlmgr install base
 ~/bin/tlmgr install tools
@@ -24,5 +22,7 @@ ls -l /opt/build/repo/_site
 ~/bin/tlmgr install hyperref
 
 cp /opt/build/repo/_site/*.tex _latex/
-~/bin/xelatex /opt/build/repo/_latex/markusberglund
+ls -l /opt/build/repo/_latex/
+cd  /opt/build/repo/_latex/
+~/bin/xelatex markusberglund
 
