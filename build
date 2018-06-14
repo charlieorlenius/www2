@@ -3,6 +3,5 @@ wget -qO- \
 
 JEKYLL_ENV=production jekyll build
 cd _site
-ls ~/bin
-~/bin/xelatex --include-directory=./_latex markusberglund.latex
+TEXINPUTS=../_latex ~/bin/xelatex markusberglund.latex
 
