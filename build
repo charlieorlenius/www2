@@ -23,6 +23,6 @@ ls -l /opt/build/repo/_site
 ~/bin/tlmgr install parskip
 ~/bin/tlmgr install hyperref
 
-echo $TEXINPUTS
-TEXINPUTS=$TEXINPUTS;./_latex ~/bin/xelatex /opt/build/repo/_site/markusberglund
+cp /opt/build/repo/_site/*.tex _latex/
+~/bin/xelatex /opt/build/repo/_latex/markusberglund
 
