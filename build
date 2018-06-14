@@ -2,6 +2,5 @@ wget -qO- \
   "https://github.com/yihui/tinytex/raw/master/tools/install-unx.sh" | sh
 
 JEKYLL_ENV=production jekyll build
-cd _site
-TEXINPUTS=../_latex ~/bin/xelatex markusberglund.latex
+TEXINPUTS=_latex ~/bin/xelatex _site/markusberglund.latex
 
