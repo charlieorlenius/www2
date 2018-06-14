@@ -3,9 +3,9 @@ wget -qO- \
 
 JEKYLL_ENV=production jekyll build
 
-~/bin/tlmgr install base
-~/bin/tlmgr install tools
+~/bin/tlmgr install latex-base
 ~/bin/tlmgr install enumitem
+~/bin/tlmgr install ifmtarg
 ~/bin/tlmgr install geometry
 ~/bin/tlmgr install fancyhdr
 ~/bin/tlmgr install xcolor
