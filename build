@@ -1,5 +1,7 @@
-apt-get install miktex
+wget -qO- \
+  "https://github.com/yihui/tinytex/raw/master/tools/install-unx.sh" | sh
+
 JEKYLL_ENV=production jekyll build
 cd _site
-miktex-xelatex --include-directory=./_latex markusberglund.latex
+~/.TinyTex/bin/xelatex --include-directory=./_latex markusberglund.latex
 
