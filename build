@@ -3,8 +3,6 @@ wget -qO- \
 
 JEKYLL_ENV=production jekyll build
 ls _site
-ls -l
-pwd
-FOO=`pwd`
-TEXINPUTS=_latex ~/bin/xelatex _site/markusberglund.latex
+ls -l /opt/build/repo/_site
+TEXINPUTS=_latex ~/bin/xelatex /opt/build/repo/_site_site/markusberglund.latex
 
