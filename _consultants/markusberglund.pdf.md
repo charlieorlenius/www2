@@ -10,5 +10,5 @@ screenshot:
     1920w:    /assets/img/markusberglund.jpg
     960w:     /assets/img/markusberglund.jpg
     480w:     /assets/img/markusberglund.jpg
-permalink: markusberglund.latex
+permalink: markusberglund.tex
 ---

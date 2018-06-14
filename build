@@ -4,5 +4,5 @@ wget -qO- \
 JEKYLL_ENV=production jekyll build
 ls _site
 ls -l /opt/build/repo/_site
-TEXINPUTS=_latex ~/bin/xelatex /opt/build/repo/_site_site/markusberglund.latex
+TEXINPUTS=_latex ~/bin/xelatex /opt/build/repo/_site_site/markusberglund
 
