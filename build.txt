@@ -1,0 +1,4 @@
+apt-get install miktex
+JEKYLL_ENV=production jekyll build
+cd _site
+miktex-xelatex --include-directory=./_latex markusberglund.latex
