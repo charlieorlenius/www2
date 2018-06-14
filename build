@@ -3,24 +3,7 @@ wget -qO- \
 
 JEKYLL_ENV=production jekyll build
 
-~/bin/tlmgr install latex-base
-~/bin/tlmgr install enumitem
-~/bin/tlmgr install ifmtarg
-~/bin/tlmgr install fix-cm
-~/bin/tlmgr install geometry
-~/bin/tlmgr install fancyhdr
-~/bin/tlmgr install xcolor
-~/bin/tlmgr install ifxetex
-~/bin/tlmgr install xifthen
-~/bin/tlmgr install etoolbox
-~/bin/tlmgr install setspace
-~/bin/tlmgr install fontspec
-~/bin/tlmgr install unicode-math
-~/bin/tlmgr install fontawesome
-~/bin/tlmgr install sourcesanspro
-~/bin/tlmgr install tcolorbox
-~/bin/tlmgr install parskip
-~/bin/tlmgr install hyperref
+~/bin/tlmgr install latex-base enumitem ifmtarg fix-cm geometry fancyhdr xcolor ifxetex xifthen etoolbox setspace fontspec unicode-math fontawesome sourcesanspro tcolorbox parskip hyperref
 
 cp /opt/build/repo/_site/*.tex _latex/
 ls -l /opt/build/repo/_latex/
