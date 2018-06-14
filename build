@@ -4,8 +4,6 @@ wget -qO- \
 JEKYLL_ENV=production jekyll build
 ls _site
 ls -l /opt/build/repo/_site
-~/bin/tlmgr install article
-~/bin/tlmgr install array
 ~/bin/tlmgr install enumitem
 ~/bin/tlmgr install ragged2e
 ~/bin/tlmgr install geometry
