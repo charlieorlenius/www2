@@ -1,7 +1,8 @@
 ---
 layout:       consultant
-title:        Johan Isaksson - Systemarkitekt - Konsultkooperativet
+title:        Johan Isaksson, Systemarkitekt
 resume:       johanisaksson
+desccription: Senior applikationsarkitekt, programmerare och projektledare. Johan har arbetat med utveckling av mjukvaruprodukter, programmering och projektledning i över 30 år. Hans specialkompetens är produktutveckling, helst svåra projekt som är en utmaning.
 tags:         [Software Architect]
 image:        /assets/img/johanisaksson.jpg
 screenshot:
