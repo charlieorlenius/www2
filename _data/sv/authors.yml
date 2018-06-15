@@ -69,3 +69,11 @@ mb:
     [Markus Berglund](/cv/markusberglund) är Konsultkooperativets medgrundare och Ordförande. Han är konsult inom Projektledning och Mjukvaruarkitektur.
   picture:           /assets/img/markusberglund_avatar.jpg
   linkedin:          markusberglundmx
+
+# Another author (optional)
+lv:
+  name:              Linda Vitell
+  email:             lv@konsult.coop
+  about:           
+  picture:           /assets/img/lindavitell.jpg
+  linkedin:          linda-vitell-8244092

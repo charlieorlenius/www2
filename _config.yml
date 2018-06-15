@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://beta.konsult.coop
+url:                   https://konsult.coop
 
 # IMPORTANT: Set The "base URL" of your site.
 #
@@ -22,7 +22,7 @@ baseurl:               ''
 lang:                 sv
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hem
+title:                 Konsultkooperativet
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -40,7 +40,7 @@ tagline:               >
 keywords:              []
 
 # Used by jekyll-seo-tag...
-logo:                  /assets/icons/icon.png
+logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
