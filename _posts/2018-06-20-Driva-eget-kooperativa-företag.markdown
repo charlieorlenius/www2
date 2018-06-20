@@ -8,8 +8,8 @@ author:   mb
 header:
   teaser: "/assets/img/SAVE_20180620_124912.jpeg"
 ---
-Tidningen [driva-eget](https://driva-eget.se) skriver i juninumret om kooperativa fˆretag - och har valt att intervjua oss i Konsultkooperativet!
+Tidningen [driva-eget](https://driva-eget.se) skriver i juninumret om kooperativa f√∂retag - och har valt att intervjua oss i Konsultkooperativet!
 
-> *Vi vill inte tj‰na pengar pÂ andra*
+> *Vi vill inte tj√§na pengar p√• andra*
 
 ![Full-width image](/assets/img/SAVE_20180620_124912.jpeg){:.lead}
