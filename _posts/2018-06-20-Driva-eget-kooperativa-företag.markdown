@@ -10,6 +10,7 @@ header:
 ---
 Tidningen [driva-eget](https://driva-eget.se) skriver i juninumret om kooperativa företag - och har valt att intervjua oss i Konsultkooperativet!
 
-> *Vi vill inte tjäna pengar på andra*
+> *Vi vill inte tjäna pengar på andras arbete*
+
 
 ![Full-width image](/assets/img/SAVE_20180620_124912.jpeg){:.lead}
