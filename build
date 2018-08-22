@@ -3,7 +3,7 @@ wget -qO- \
 
 JEKYLL_ENV=production jekyll build
 
-~/bin/tlmgr install latex-base enumitem ifmtarg fix-cm fancyhdr xcolor xifthen setspace unicode-math fontawesome sourcesanspro tcolorbox parskip ragged2e fontawesome roboto
+~/bin/tlmgr install latex-base enumitem ifmtarg fix-cm fancyhdr xcolor xifthen setspace unicode-math fontawesome sourcesanspro tcolorbox parskip ragged2e fontawesome roboto pgf
 
 cp /opt/build/repo/_site/*.tex _latex/
 
