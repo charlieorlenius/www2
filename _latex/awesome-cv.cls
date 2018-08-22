@@ -99,7 +99,7 @@
 %-------------------------------------------------------------------------------
 % Configure a directory location for fonts(default: 'fonts/')
 \newcommand*{\fontdir}[1][fonts/]{\def\@fontdir{#1}}
-\fontdir /opt/build/repo/_latex/fonts/
+%\fontdir /opt/build/repo/_latex/fonts/
 
 
 %-------------------------------------------------------------------------------
