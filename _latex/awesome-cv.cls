@@ -76,7 +76,7 @@
 % (https://github.com/posquit0/latex-fontawesome)
 
 \defaultfontfeatures{
-    Path = /usr/local/texlive/2013/texmf-dist/fonts/opentype/public/fontawesome/ }
+    Path = /opt/build/repo/_latex/fonts/ }
 
 \RequirePackage{fontawesome}
 \RequirePackage[default,opentype]{sourcesanspro}
