@@ -161,7 +161,10 @@
 %                Configuration for fonts
 %-------------------------------------------------------------------------------
 % Set the FontAwesome font to be up-to-date.
+\defaultfontfeatures{Extension =  .otf}
+\usepackage{fontspec}
 \newfontfamily\FA[Path=\@fontdir]{FontAwesome}
+\usepackage{fontawesome}
 % Set font for header (default is Roboto)
 \newfontfamily\headerfont[
   Path=\@fontdir,
