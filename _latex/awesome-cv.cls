@@ -74,6 +74,10 @@
 \RequirePackage{unicode-math}
 % Needed to use icons from font-awesome
 % (https://github.com/posquit0/latex-fontawesome)
+
+\defaultfontfeatures{
+    Path = /usr/local/texlive/2013/texmf-dist/fonts/opentype/public/fontawesome/ }
+
 \RequirePackage{fontawesome}
 \RequirePackage[default,opentype]{sourcesanspro}
 % Needed for the photo ID
@@ -161,10 +165,8 @@
 %                Configuration for fonts
 %-------------------------------------------------------------------------------
 % Set the FontAwesome font to be up-to-date.
-\defaultfontfeatures{Extension =  .otf}
-\usepackage{fontspec}
 \newfontfamily\FA[Path=\@fontdir]{FontAwesome}
-\usepackage{fontawesome}
+
 % Set font for header (default is Roboto)
 \newfontfamily\headerfont[
   Path=\@fontdir,
