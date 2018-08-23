@@ -76,7 +76,7 @@
 % (https://github.com/posquit0/latex-fontawesome)
 
 \defaultfontfeatures{
-    Path = /opt/build/repo/_latex/fonts/ }
+    Path = fonts/ }
 
 \RequirePackage{fontawesome}
 \RequirePackage[default,opentype]{sourcesanspro}
@@ -166,11 +166,11 @@
 %-------------------------------------------------------------------------------
 % Set the FontAwesome font to be up-to-date.
 %\newfontfamily\FA[Path=\@fontdir]{FontAwesome}
-\newfontfamily\FAA[Path=fonts/]{FontAwesome}
+\newfontfamily\FA[Path=fonts/]{FontAwesome}
 
 % Set font for header (default is Roboto)
 \newfontfamily\headerfont[
-%  Path=\@fontdir,
+  Path=fonts/,
   UprightFont=*-Regular,
   ItalicFont=*-Italic,
   BoldFont=*-Bold,
@@ -178,7 +178,7 @@
 ]{Roboto}
 
 \newfontfamily\headerfontlight[
-%  Path=\@fontdir,
+  Path=fonts/,
   UprightFont=*-Thin,
   ItalicFont=*-ThinItalic,
   BoldFont=*-Medium,
@@ -436,7 +436,7 @@
   \begin{minipage}[c]{\headertextwidth}
     \ifthenelse{\equal{#1}{L}}{\raggedright}{\ifthenelse{\equal{#1}{R}}{\raggedleft}{\centering}}
 
-    \includegraphics[width=6cm,height=10cm,keepaspectratio]{./assets/img/logo2.png}
+    \includegraphics[width=6cm,height=10cm,keepaspectratio]{../assets/img/logo2.png}
     \\[\acvHeaderAfterSocialSkip]%
   
     \headerfirstnamestyle{\@firstname}\headerlastnamestyle{{}\acvHeaderNameDelim\@lastname}%

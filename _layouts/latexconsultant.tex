@@ -67,7 +67,7 @@
 %-------------------------------------------------------------------------------
 % Available options: circle|rectangle,edge/noedge,left/right
 % \photo[rectangle,edge,right]{profile}
-{% assign phototag = "{." | append: basics.picture | append: "}" %}
+{% assign phototag = "{.." | append: basics.picture | append: "}" %}
 \photo[circle,edge,right]{{phototag}}
 {% assign firstname = basics.name  | truncatewords: 1, "" %}
 {% assign lastname = basics.name  | remove_first: firstname | truncatewords: 1, ""  %}
