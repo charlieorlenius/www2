@@ -166,7 +166,7 @@
 %-------------------------------------------------------------------------------
 % Set the FontAwesome font to be up-to-date.
 %\newfontfamily\FA[Path=\@fontdir]{FontAwesome}
-\newfontfamily\FA2[Path=fonts/]{FontAwesome}
+\newfontfamily\FAA[Path=fonts/]{FontAwesome}
 
 % Set font for header (default is Roboto)
 \newfontfamily\headerfont[
