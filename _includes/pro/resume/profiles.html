@@ -1,4 +1,3 @@
-{% if basics.profiles.size > 0 %}
   <dl class="column column-2-5">
     {% for pro in basics.profiles %}
       {% assign platform = pro.network | downcase %}
@@ -17,5 +16,13 @@
         {% include link.html href=pro.url class="nickname p-nickname" title=pro.username property="sameAs" %}
       </dd>
     {% endfor %}
+    <dt class="faded">
+      <span class="icon-file-pdf" title="PDF"></span>
+      <span class="sr-only">Download</span>
+    </dt>
+    <dd class="bold">
+      {% assign url = "/cv/pdf/" | append: basics.filename | append: ".pdf" %}
+      {% include link.html href=url class="nickname p-nickname" title="Download" property="sameAs" %}
+    </dd>
+
   </dl>
-{% endif %}

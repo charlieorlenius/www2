@@ -173,6 +173,10 @@ collections:
     permalink:         /cv/:path/
     output:            true
 
+  consultants_pdf:
+    permalink:         /cv/pdf/:path/
+    output:            true
+
 # File inclusion/exclusion
 # ========================================================================================
 

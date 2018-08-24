@@ -1,0 +1,31 @@
+wget -qO- \
+  "https://github.com/yihui/tinytex/raw/master/tools/install-unx.sh" | sh
+
+JEKYLL_ENV=production jekyll build
+
+~/bin/tlmgr install latex-base enumitem ifmtarg fix-cm fancyhdr xcolor xifthen setspace unicode-math fontawesome sourcesanspro tcolorbox parskip ragged2e fontawesome roboto pgf environ trimspaces
+
+cp /opt/build/repo/_site/*.tex /opt/build/repo/_latex/
+
+cd  /opt/build/repo/_latex/
+
+~/bin/xelatex -interaction=batchmode markusberglund
+~/bin/xelatex -interaction=batchmode johanisaksson
+~/bin/xelatex -interaction=batchmode lindavitell
+
+mkdir ../_site/cv/pdf
+cp *.pdf ../_site/cv/pdf/
+
+cp /opt/build/repo/_site/en/*.tex /opt/build/repo/_latex/
+
+cd  /opt/build/repo/_latex/
+
+~/bin/xelatex -interaction=batchmode markusberglund
+~/bin/xelatex -interaction=batchmode johanisaksson
+~/bin/xelatex -interaction=batchmode lindavitell
+
+mkdir ../_site/en/cv/pdf
+cp *.pdf ../_site/en/cv/pdf/
+
+cat markusberglund.log
+
