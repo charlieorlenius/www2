@@ -28,6 +28,24 @@
   },
   "work": [
     {
+      "company": "Huawei Technologies Sweden AB",
+      "position": "Product Manager",
+      "website": "",
+      "startDate": "2018-04-01",
+      "endDate": "",
+      "keywords": ["Docker", "Python", "Jenkins", "Product Owner", "5G", "Research", "Matlab"],
+      "summary": "Product Owner and Manager for the simulators developed in Gothenburg. Leading and managing the development efforts in simulators for research of next generation Mobile networks.",
+      "highlights": [
+        "Setup of Docker Swarm for computing effciency",
+        "Continuous ingration setup"
+      ],
+      "location": {
+			"city": "Gothenburg",
+			"countryCode": "",
+      "region": ""
+      }
+		},
+    {
       "company": "Konsultkooperativet",
       "position": "Co-Founder of Sweden's first cooperative for self-employed consultants",
       "website": "http://konsult.coop",
