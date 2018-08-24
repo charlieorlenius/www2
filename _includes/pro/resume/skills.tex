@@ -9,10 +9,10 @@
 %-------------------------------------------------------------------------------
 %	SUBSECTION TITLE
 %-------------------------------------------------------------------------------
-\cvsubsection{ {{ skl.name}} }{% if skl.keywords.size > 0 %}
+\cvsubsection{ {{ skl.name | replace: "&", "\\&" }} }{% if skl.keywords.size > 0 %}
 \headersocialstyle{ 
 \newline{% for key in skl.keywords %}
-{ {{ key }} } {% if forloop.last == false %}\acvHeaderSocialSep{% endif %}{% endfor %}
+{ {{ key | replace: "&", "\\&" }} } {% if forloop.last == false %}\acvHeaderSocialSep{% endif %}{% endfor %}
 }
 {% endif %}
 

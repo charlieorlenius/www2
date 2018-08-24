@@ -10,6 +10,9 @@ cp /opt/build/repo/_site/*.tex _latex/
 cd  /opt/build/repo/_latex/
 ls /opt/build/repo/_latex/fonts/
 
-~/bin/xelatex -quiet -interaction=batchmode markusberglund
+~/bin/xelatex -interaction=batchmode markusberglund
+~/bin/xelatex -interaction=batchmode johanisaksson
+~/bin/xelatex -interaction=batchmode lindavitell
+
 cat markusberglund.log
 
