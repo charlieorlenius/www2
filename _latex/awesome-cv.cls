@@ -69,15 +69,11 @@
 % Needed to manage fonts
 \RequirePackage[quiet]{fontspec}
 % To support LaTeX quoting style
-\defaultfontfeatures{Ligatures=TeX}
+\defaultfontfeatures{Ligatures=TeX, Path = fonts/ }
 % Needed to manage math fonts
 \RequirePackage{unicode-math}
 % Needed to use icons from font-awesome
 % (https://github.com/posquit0/latex-fontawesome)
-
-\defaultfontfeatures{
-    Path = fonts/ }
-
 \RequirePackage{fontawesome}
 \RequirePackage[default,opentype]{sourcesanspro}
 % Needed for the photo ID
