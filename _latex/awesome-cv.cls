@@ -72,6 +72,7 @@
 \defaultfontfeatures{Ligatures=TeX, Path = fonts/ }
 % Needed to manage math fonts
 \RequirePackage{unicode-math}
+\setmathfont[ Path=fonts/ ]{latinmodern-math.otf}
 % Needed to use icons from font-awesome
 % (https://github.com/posquit0/latex-fontawesome)
 \RequirePackage{fontawesome}
