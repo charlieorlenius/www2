@@ -20,15 +20,15 @@
 
 %---------------------------------------------------------
   \cventry
-    { {{ work.position }} } % Job title
-    { {{ work.company }} } % Organization
-    { {{ work.location.city }} } % Location
+    { {{ work.position | replace: "&", "\\&" }} } % Job title
+    { {{ work.company | replace: "&", "\\&" }} } % Organization
+    { {{ work.location.city | replace: "&", "\\&" }} } % Location
     { {{ work.startDate | date:from_to_format }}-{{endDate}} } % Date(s)
     {
-      {{ work.summary }}
+      {{ work.summary | replace: "&", "\\&" }}
       \vspace{\baselineskip}
       \begin{cvitems}{% for highlight in work.highlights %}
-        \item{ {{ highlight }} }{% endfor %}
+        \item{ {{ highlight | replace: "&", "\\&" }} }{% endfor %}
       \end{cvitems}
       }
   
