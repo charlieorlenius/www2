@@ -1,5 +1,5 @@
 <header class="hr">
-  <h1 class="page-title fn p-name" property="name">{{ basics.name }}</h1>
+  <h1 class="page-title fn p-name" property="name">{{ basics.name }}</h1><a href="assets/pdf/{{ basics.filename }}.pdf"><span class="icon-file-pdf" title="PDF"></span></a>
 
   {% if basics.picture.size > 0 %}
     {% include srcset-img.html class="avatar photo u-photo" img=basics.picture alt=basics.name property="image" %}
@@ -9,9 +9,3 @@
     <p class="h3 faded subline title p-job-title" property="jobTitle">{{ basics.label }}</p>
   {% endif %}
 </header>
-
-{% if basics.summary.size > 0 %}
-  <p class="note p-note" property="description">
-    {{ basics.summary | markdownify | replace:'<p>','' | replace:'</p>','' }}
-  </p>
-{% endif %}
