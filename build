@@ -14,5 +14,8 @@ ls /opt/build/repo/_latex/fonts/
 ~/bin/xelatex -interaction=batchmode johanisaksson
 ~/bin/xelatex -interaction=batchmode lindavitell
 
+mkdir ../_site/assets/pdf
+cp *.pdf ../_site/assets/pdf/
+
 cat markusberglund.log
 
