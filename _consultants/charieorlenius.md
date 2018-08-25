@@ -1,15 +1,15 @@
 ---
 layout:       consultant
 title:        Charlie Orlenius, titel
-resume:       charieorlenius
+resume:       charlieorlenius
 description:  Summary
-image:        /assets/img/charieorlenius.jpg
+image:        /assets/img/charlieorlenius.jpg
 tags:         ["", ""]
 screenshot:
-  src:        /assets/img/charieorlenius.jpg
+  src:        /assets/img/charlieorlenius.jpg
   srcset:
-    1920w:    /assets/img/charieorlenius.jpg
-    960w:     /assets/img/charieorlenius.jpg
-    480w:     /assets/img/charieorlenius.jpg
+    1920w:    /assets/img/charlieorlenius.jpg
+    960w:     /assets/img/charlieorlenius.jpg
+    480w:     /assets/img/charlieorlenius.jpg
 
 ---
