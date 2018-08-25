@@ -1,5 +1,5 @@
 ---
 layout:       latexconsultant
-resume:       charieorlenius
-permalink:    charieorlenius.tex
+resume:       charlieorlenius
+permalink:    charlieorlenius.tex
 ---
