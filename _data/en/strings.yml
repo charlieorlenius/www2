@@ -32,6 +32,8 @@ templates:             Templates (for web app)
 loading:               Loading…
 redirecting:           Redirecting…
 
+all:                   All
+
 continue_reading:      >
   Continue reading <!--post_title-->
 

@@ -13,6 +13,6 @@ permalink: /consultants
 ---
 
 <ul class="tags">
-<li class="tag"><a href="/consultants">Alla</a></li>
+<li class="tag"><a href="/consultants">{{ strings.all | default:"Alla" }}</a></li>
 {% for tag in site.featured_tags %} <li class="tag"><a href="/tag/{{ tag.slug }}">{{ tag.slug }}</a></li>{% endfor %}
 </ul>

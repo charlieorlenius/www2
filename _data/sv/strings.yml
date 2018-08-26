@@ -29,6 +29,8 @@ permalink:             Permalink
 permalink_icon:        icon-link
 templates:             Templates (for web app)
 
+all:                   Alla
+
 loading:               Loading…
 redirecting:           Redirecting…
 
