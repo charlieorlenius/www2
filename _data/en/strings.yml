@@ -126,6 +126,7 @@ resume:
   level:               Level
   interests:           Interests
   keywords:            Keywords
+  summary:             Summary
   icons:
     fallback:          icon-link
     location:          icon-location

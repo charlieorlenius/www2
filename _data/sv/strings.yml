@@ -126,6 +126,7 @@ resume:
   level:               Nivå
   interests:           Intressen
   keywords:            Nyckelord
+  summary:             Sammanfattning
   icons:
     fallback:          icon-link
     location:          icon-location
