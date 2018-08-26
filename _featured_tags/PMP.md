@@ -7,6 +7,6 @@ description: >
 ---
 
 <ul class="tags">
-<li class="tag"><a href="/consultants">{{ strings.all | default:"All" }}</a></li>
+<li class="tag"><a href="/consultants">{{ strings.all | default:"Alla" }}</a></li>
 {% for tag in site.featured_tags %}{% if tag.slug != page.slug %} <li class="tag"><a href="/tag/{{ tag.slug }}">{{ tag.slug }}</a></li>{% endif %}{% endfor %}
 </ul>
