@@ -1,0 +1,38 @@
+{% if resume.education.size > 0 %}
+
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Education}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+{% for edu in resume.education %}
+  {% if edu.endDate.size > 0 %}
+    {% assign endDate = edu.endDate | date:from_to_format %}
+  {% else %}
+    {% assign endDate = 'present' %}
+  {% endif %}
+
+%---------------------------------------------------------
+  \cventry
+    { {{ edu.studyType | append: " at " | append: edu.area | replace: "&", "\\&" }} } % 
+    { {{ edu.institution | replace: "&", "\\&" }} } % 
+    { {{ edu.location.city | replace: "&", "\\&" }} } % Location
+    { {{ edu.startDate | date:from_to_format }}-{{endDate}} } % Date(s)
+    {
+      {{ edu.summary | replace: "&", "\\&" }}
+      \vspace{\baselineskip}
+      \begin{cvitems}{% for course in edu.courses %}
+        \item{ {{ course | replace: "&", "\\&" }} }{% endfor %}
+      \end{cvitems}
+      }
+
+%---------------------------------------------------------
+\end{cventries}
+
+{% endif %}
