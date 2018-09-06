@@ -1,0 +1,140 @@
+{
+  "basics": {
+    "filename": "petronellatorgersson",
+    "name": "Petronella Torgersson",
+    "label": "titel",
+    "picture": "/assets/img/petronellatorgersson_avatar.jpg",
+    "email": "pt@konsult.coop",
+    "phone": "telefonnummer",
+    "website": "",
+    "summary": "Kort besrivning.",
+    "location": {
+      "address": "gatuadress",
+      "postalCode": "",
+      "city": "Göteborg",
+      "countryCode": "",
+      "region": ""
+    },
+    "birth": {
+		"place": "",
+  		"state": "Sweden",
+  		"date": ""
+	 },
+    "profiles": [{
+      "network": "LinkedIn",
+      "username": "Petronella Torgersson",
+      "url": "https://www.linkedin.com/in/..."
+    }]
+  },
+  "work": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "keywords": ["", ""],
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ],
+      "location": {
+			"city": "Göteborg",
+			"countryCode": "",
+      "region": ""
+      }
+		},
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "keywords": [""],
+      "summary": "",
+      "highlights": [],
+      "location": {
+			"city": "Göteborg",
+			"countryCode": "",
+			"region": ""
+		  } 
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Lund Institute of Technology",
+      "area": "Computer Science",
+      "studyType": "Master of Science and Engineering",
+      "startDate": "1999-09-01",
+      "endDate": "2003-06-30",
+      "gpa": "",
+      "summary": "Beskrivning",
+      "courses": [],
+      "location": {
+			"city": "Lund",
+			"countryCode": "",
+			"region": ""
+  		} 
+
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": [
+        "Project Management",
+        "Structured",
+        "Team Leader",
+        "Agile",
+        "PMI-PMP",
+        "Office and staff Management",
+        "Organized",
+        "Recruiting"
+      ]
+    },
+    {
+      "name": "Telecom",
+      "level": "",
+      "keywords": [
+		  "Massive MIMIO",
+        "3GPP",
+        "WCDMA",
+        "LTE",
+        "5G",
+        "Channel Modeling",
+		  "Simulations",
+		  "METIS",
+		  "BTS System"
+      ]
+    }  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Flytande"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Modersmål"
+    }
+  ],
+  "interests": [
+        {
+      "name": "",
+      "keywords": [
+        "",
+        ""
+      ],
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ]
+}
