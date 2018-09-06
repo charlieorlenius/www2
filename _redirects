@@ -11,7 +11,8 @@ https://www.konsultkooperativet.net/* https://konsult.coop/:splat 301!
 https://konsultkooperativet.org/* https://konsult.coop/:splat 301!
 https://www.konsultkooperativet.org/* https://konsult.coop/:splat 301!
 
-https://beta.konsult.coop/* https://konsult.coop/:splat 301!
+https://beta.konsult.coop/robots.txt https://beta.konsult.coop/robots-beta.txt 301!
+http://beta.konsult.coop/robots.txt http://beta.konsult.coop/robots-beta.txt 301!
 
 # Redirect with a 301
 /index          /               301
