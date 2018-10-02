@@ -43,13 +43,22 @@
       ]
     },
     {
+      "company": "Gobius Sensor Technology AB",
+      "position": "Mobile Developer",
+      "website": "https://gobiuspro.com",
+      "startDate": "2017-11-01",
+      "endDate": "",
+      "summary": "Utveckling av mobilapp för Gobius nivåsensorer.",
+      "highlights": ["React Native", "C#", "typescript", "Bluetooth LE"]
+    },
+    {
       "company": "ATI - Accurate Technologies AB",
       "position": "Senior Developer",
       "website": "https://accuratetechnologies.se",
       "startDate": "2017-09-01",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
+      "endDate": "2018-08-31",
+      "summary": "Utveckling av webapp för hantering av CAN-data.",
+      "highlights": ["React", "dotnet", "typescript", "CAN"]
     },
     {
       "company": "Huawei",
@@ -58,7 +67,7 @@
       "startDate": "2016-09-01",
       "endDate": "2016-08-31",
       "summary": "Programvaruutvecklingsexpert på Huaweis forskningskontor i Göteborg. Produkt- och Utvecklingsansvarig för en intern mjukvarusimulator för forskning. Arbetet bestod av Matlab-programmering, systemoptimering, GPU-kodning, utvecklingsmiljö (SVN/Git, YouTrack/TeamCity/GitLab) och distribuerade simuleringar. Kunden har gått från projekt till produkt med utvecklingsmiljö, projektverktyg, automatiserade tester och möjlighet att köra stora distribuerade simuleringar.",
-      "highlights": []
+      "highlights": ["GPU-programmering", "Matlab", "Optimiering", "Systemarkitekt"]
     },
     {
       "company": "SKF",
