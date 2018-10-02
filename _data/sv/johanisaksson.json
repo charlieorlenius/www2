@@ -367,13 +367,33 @@
       "startDate": "1989-08-01",
       "endDate": "1993-04-01",
       "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Coursera",
+      "area": "Machine Learning",
+      "studyType": "Kurs",
+      "startDate": "2017-08-01",
+      "endDate": "2018-02-28",
+      "gpa": "",
       "courses": [
-        "Machine Learning, Stanford University (Coursera)",
+        "Machine Learning, Stanford University",
         "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
         "Convolutional Neural Networks",
         "Structuring Machine Learning Projects",
         "Neural Networks and Deep Learning",
         "Sequence Models (Machine Learning)"
+      ]
+    },
+    {
+      "institution": "Udacity",
+      "area": "Kryptografi",
+      "studyType": "Kurs",
+      "startDate": "2015-08-01",
+      "endDate": "2015-10-01",
+      "gpa": "",
+      "courses": [
+        "Applied Cryptography"
       ]
     }
   ],
