@@ -14,7 +14,25 @@ Tycker du att det här konceptet låter intressant? Vill du tillhöra en större
 
 Kom på **informationsmöte den 22 november klockan 18:00** i våra lokaler på [Kungsgatan 4](https://www.google.se/maps/place/Entrepren%C3%B6rsgatan/@57.702817,11.9542995,17z/data=!3m1!4b1!4m5!3m4!1s0x464ff368164787cb:0xf57415e6f5455b21!8m2!3d57.702817!4d11.9564882). Vi bjuder på en presentation om kooperativet, och framförallt en frågestund där du får möjlighet att förstå vår vision. Efteråt bjuder vi på något enklare att äta och dricka.
 
+## Anmäl dig här
+ Fyll i formuläret nedan för att anmäla dig!
+ <form name="event20181122" netlify>
+Namn:
+<input type="text" name="name">
+Epost:
+<input type="email" name="email">
+LinkedIn profil:
+<input type="text" name="linkedin" value="https://linkedin.com/in/">
+Mobil:
+<input type="tel" name="telefon">
+ <p class="hidden">
+<label>Don’t fill this out: <input name="bot-field"></label>
+</p>
+ <button type="submit">Anmäl</button>
+</form>
+
 ## Mer information
 Har du frågor får gärna skicka mail till [konsult@konsult.coop](mailto:konsult@konsult.coop).
 
 Vi ses!
+
