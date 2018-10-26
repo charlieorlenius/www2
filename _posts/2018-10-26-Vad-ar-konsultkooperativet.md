@@ -51,9 +51,6 @@ Mobil:
     </td>
     <td>
 <input type="tel" name="telefon">
-<p class="hidden">
-<label>Don’t fill this out: <input name="bot-field"></label>
-</p>
     </td>
   </tr>
 
