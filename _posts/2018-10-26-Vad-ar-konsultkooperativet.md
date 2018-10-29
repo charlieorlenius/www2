@@ -4,7 +4,7 @@ title: "Infomöte 19/11 i Göteborg"
 date: 2018-10-25 08:00:00 +0100
 categories: konsultbolag konsultnätverk event
 author: mb
-excerpt: "Tycker du att Konsultkooperativets koncept låter intressant? Kom på informationsmöte den 22 november!"
+excerpt: "Tycker du att Konsultkooperativets koncept låter intressant? Kom på informationsmöte den 19 november!"
 header:
   teaser: "/assets/img/umbrella-1588167_640.jpg"
 ---
