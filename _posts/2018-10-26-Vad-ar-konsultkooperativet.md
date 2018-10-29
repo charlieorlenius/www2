@@ -7,7 +7,7 @@ author: mb
 excerpt: "Tycker du att Konsultkooperativets koncept låter intressant? Kom på informationsmöte den 19 november!"
 header:
   teaser: "/assets/img/info20181119.png"
-image: /assets/img/info20181119.png
+image: /assets/img/info20181119.png?v2
 ---
 <img src="/assets/img/info20181119.png" class="lead">[Konsultkooperativet](https://konsult.coop) är ett konsultbolag där alla konsulter gemensamt äger bolaget. Alla har lika stora andelar, och lika mycket att säga till om. Konsultkooperativet har inget vinstintresse, utan allt överskott går tillbaka som återbäring till konsulterna. Inga kapitalvinster - vi vill inte tjäna pengar på varandra eller på tillväxt. [Alla medlemmar](https://konsult.coop/consultants) hjälper varandra genom att dela med sig av sitt nätverk och kontakter, och på så sätt ökar  möjlighet till spännande och utvecklande uppdrag.
 
