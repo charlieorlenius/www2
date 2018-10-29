@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infomöte 22/11 i Göteborg"
+title: "Infomöte 19/11 i Göteborg"
 date: 2018-10-25 08:00:00 +0100
 categories: konsultbolag konsultnätverk event
 author: mb
