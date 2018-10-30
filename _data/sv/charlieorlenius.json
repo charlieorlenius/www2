@@ -2,15 +2,15 @@
   "basics": {
     "filename": "charlieorlenius",
     "name": "Charlie Orlenius",
-    "label": "titel",
+    "label": "RF and Wireless Communications Professional",
     "picture": "/assets/img/charlieorlenius_avatar.jpg",
     "email": "co@konsult.coop",
-    "phone": "telefonnummer",
+    "phone": "",
     "website": "",
-    "summary": "Kort besrivning.",
+    "summary": "",
     "location": {
-      "address": "gatuadress",
-      "postalCode": "",
+      "address": "",
+      "postalCode": "41657",
       "city": "Göteborg",
       "countryCode": "",
       "region": ""
@@ -28,99 +28,129 @@
   },
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "Exarc AB",
+      "position": "Independent Consultant",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "keywords": ["", ""],
+      "startDate": "2017-11-01",
       "summary": "",
-      "highlights": [
-        "",
-        ""
-      ],
-      "location": {
-			"city": "Göteborg",
-			"countryCode": "",
-      "region": ""
-      }
-		},
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "keywords": [""],
-      "summary": "",
-      "highlights": [],
-      "location": {
-			"city": "Göteborg",
-			"countryCode": "",
-			"region": ""
-		  } 
-    }
-  ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "Lund Institute of Technology",
-      "area": "Computer Science",
-      "studyType": "Master of Science and Engineering",
-      "startDate": "1999-09-01",
-      "endDate": "2003-06-30",
-      "gpa": "",
-      "summary": "Beskrivning",
-      "courses": [],
-      "location": {
-			"city": "Lund",
-			"countryCode": "",
-			"region": ""
-  		} 
-
-    }
-  ],
-  "publications": [],
-  "skills": [
-    {
-      "name": "Management",
-      "level": "",
-      "keywords": [
-        "Project Management",
-        "Structured",
-        "Team Leader",
-        "Agile",
-        "PMI-PMP",
-        "Office and staff Management",
-        "Organized",
-        "Recruiting"
-      ]
+      "highlights": []
     },
     {
-      "name": "Telecom",
+      "company": "Ranatec Instrument AB",
+      "position": "CTO",
+      "website": "",
+      "startDate": "2017-04-01",
+      "summary": "Chief Technology Officer for smaller company delivering test and measurement solutions to telecom and radar industry. Responsible for product development, manufacturing/sourcing, and personnel.",
+      "highlights": [],
+      "endDate": "2017-11-01"
+    },
+    {
+      "company": "Volvo Car Group",
+      "position": "Senior System Developer",
+      "website": "",
+      "startDate": "2016-06-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2017-04-01"
+    },
+    {
+      "company": "Exarc AB",
+      "position": "CEO/Founder/Product Developer/Independent Consultant",
+      "website": "",
+      "startDate": "2016-01-01",
+      "summary": "Exarc is doing product development and technical consulting within various technical areas. Special expertise in Wireless Communications.",
+      "highlights": [],
+      "endDate": "2016-06-01"
+    },
+    {
+      "company": "Bluetest Inc.",
+      "position": "CTO",
+      "website": "",
+      "startDate": "2015-01-01",
+      "summary": "Based out of the office in Santa Clara, I was given the assignment to develop customer contacts throughout the Silicon Valley area and at the same time investigate suitable directions for future Bluetest product development.  Main outcomes of the project: - Strategy for upcoming product development (with focus in WiFi) - Established contacts with strategically important customers and a new strategic partner - Quick and efficient technical support to customers in Silicon Valley area - Active lab for demos of Bluetest’s measurement system",
+      "highlights": [],
+      "endDate": "2015-09-01"
+    },
+    {
+      "company": "Bluetest AB",
+      "position": "Board Member",
+      "website": "",
+      "startDate": "2006-09-01",
+      "summary": "Member of the Bluetest board of directors while the company grew from 3 to 35 employees, and turnover from 3 to 87 MSEK.",
+      "highlights": [],
+      "endDate": "2015-10-01"
+    },
+    {
+      "company": "Bluetest",
+      "position": "CTO/R&D Manager/System Engineer",
+      "website": "",
+      "startDate": "2001-01-01",
+      "summary": "Over 15 years, my work consisted of various assignments and has given a vast amount of experiences. Focus has been on software/hardware/method development, as contributor as well as manager.   Bluetest develops and sells systems for performance measurements of small antennas and wireless terminals, mainly for the telecom area. Headquarter with R&D is placed in Gothenburg, Sweden, and sales offices exist in China and USA. The Bluetest technology is focused on efficient and relevant performance measurements over the air interface for all sorts of wireless terminals, for example mobile phones.",
+      "highlights": [],
+      "endDate": "2015-12-01"
+    },
+    {
+      "company": "Combitech Traffic Systems",
+      "position": "System Engineer",
+      "website": "",
+      "startDate": "2000-06-01",
+      "summary": "Internship within microwave based road toll systems. Developed method to test interference problems for microwave transceivers at installed customer site. The work gave basic insight into the technology behind electronic road toll systems.",
+      "highlights": [],
+      "endDate": "2000-08-01"
+    },
+    {
+      "company": "Chalmers University of Technology",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2000-01-01",
+      "summary": "Part time work as research assistant in Prof. P-S. Kildal’s antenna research group. Made working prototype of reverberation chamber for test of antenna radiation efficiency.",
+      "highlights": [],
+      "endDate": "2000-06-01"
+    },
+    {
+      "company": "Rörviks skola",
+      "position": "Teacher",
+      "website": "",
+      "startDate": "1998-08-01",
+      "summary": "Teacher in physics, technology, and mathematics for years 7-9 in Swedish primary school.  Form teacher and responsible for the school’s computer activities. The work gave useful experience in understanding other people and how to explain matters in a pedagogical manner.",
+      "highlights": [],
+      "endDate": "1999-06-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "",
+      "area": "",
+      "studyType": "Master’s Degree",
+      "startDate": "1995-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2001-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Communication",
       "level": "",
-      "keywords": [
-		  "Massive MIMIO",
-        "3GPP",
-        "WCDMA",
-        "LTE",
-        "5G",
-        "Channel Modeling",
-		  "Simulations",
-		  "METIS",
-		  "BTS System"
-      ]
-    }  ],
+      "keywords": ["Antennas",  "LTE", "Microwave", "RF", "Wireless", "Electromagnetics"]
+    }
+  ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Flytande"
+      "fluency": "Full professional proficiency"
     },
     {
       "language": "Swedish",
-      "fluency": "Modersmål"
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "German",
+      "fluency": "Elementary proficiency"
     }
-  ],
+  ]
+}
+
   "interests": [
         {
       "name": "",
