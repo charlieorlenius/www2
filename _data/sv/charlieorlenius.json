@@ -5,7 +5,7 @@
     "label": "RF and Wireless Communications Professional",
     "picture": "/assets/img/charlieorlenius_avatar.jpg",
     "email": "co@konsult.coop",
-    "phone": "",
+    "phone": "+46 723 20 1624",
     "website": "",
     "summary": "",
     "location": {
@@ -119,8 +119,8 @@
   ],
   "education": [
     {
-      "institution": "",
-      "area": "",
+      "institution": "Chalmers University of Technology",
+      "area": "Engineering Physics",
       "studyType": "Master’s Degree",
       "startDate": "1995-01-01",
       "gpa": "",
